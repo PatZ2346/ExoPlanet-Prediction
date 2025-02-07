@@ -5,12 +5,12 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense
 from tensorflow.keras.optimizers import Adam
 
-# Load your dataset
+# Load dataset
 df = pd.read_csv('Resources/part-00000-3d57ee90-8dc9-4f89-97e6-768aa0ffce3c-c000.csv')
 
 # Group by 'Host_Star' to aggregate planet counts and star features
 star_data = df.groupby('Host_Star').agg({
-    'Num_Planets': 'first',  # Assuming 'Num_Planets' is correct for each star in your dataset
+    'Num_Planets': 'first',
     'Star_Temperature_K': 'first',
     'Star_Radius_Solar': 'first',
     'Star_Mass_Solar': 'first',
@@ -50,4 +50,4 @@ model_loss, model_accuracy = model.evaluate(X_test, y_test, verbose=2)
 print(f"Loss: {model_loss}, Accuracy: {model_accuracy}")
 
 # Save model
-model.save('gnn_exo_planet_model.h5')
+model.save('nn_exo_planet_model.keras')
