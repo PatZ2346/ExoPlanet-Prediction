@@ -18,7 +18,6 @@ star_data = df.groupby('Host_Star').agg({
 }).reset_index()
 
 # Normalize features
-# Normalize features
 features = ['Star_Temperature_K', 'Star_Radius_Solar', 'Star_Mass_Solar', 'Star_Metallicity']
 X = star_data[features].values
 y = star_data['Num_Planets'].values
@@ -35,7 +34,9 @@ model = Sequential([
     Dense(1)  # Output layer for regression
 ])
 
-model.compile(optimizer=Adam(learning_rate=0.001), loss='mse')
+model.summary()
+
+model.compile(optimizer=Adam(learning_rate=0.001), loss='mse' , metrics=["accuracy"])
 
 history = model.fit(
     X_train, y_train,
@@ -45,8 +46,8 @@ history = model.fit(
     verbose=1
 )
 
-test_loss = model.evaluate(X_test, y_test)
-print(f"Test Loss: {test_loss}")
+model_loss, model_accuracy = model.evaluate(X_test, y_test, verbose=2)
+print(f"Loss: {model_loss}, Accuracy: {model_accuracy}")
 
 # Save model
 model.save('gnn_exo_planet_model.h5')
