@@ -21,6 +21,12 @@ def load_and_normalize_dataset(file_path, features):
     X_normalized = (X - X.min(axis=0)) / (X.max(axis=0) - X.min(axis=0))
     return X_normalized, df
 
+# In[3]:
+def load_dataset_and_extract_star_names(file_path):
+    # Load dataset
+    df = pd.read_csv(file_path)
+    host_star_list = df['Host_Star'].tolist()
+    return host_star_list
 
 # In[4]:
 
