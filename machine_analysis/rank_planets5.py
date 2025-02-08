@@ -9,14 +9,13 @@
 import pandas as pd
 from sklearn.metrics.pairwise import cosine_distances
 import numpy as np
-import plotly.graph_objects as go
-
+import matplotlib.pyplot as plt
 
 # In[18]:
 
 
 # Load dataset
-def load_dataset(file_path="Resources/part-00000-3d57ee90-8dc9-4f89-97e6-768aa0ffce3c-c000.csv"):
+def load_dataset(file_path):
     df = pd.read_csv(file_path)
     return df
 
@@ -25,7 +24,7 @@ def load_dataset(file_path="Resources/part-00000-3d57ee90-8dc9-4f89-97e6-768aa0f
 
 
 # Normalize the features for cosine similarity
-def normalize_for_cosine_similarity(df, features = ['Insolation_Flux', 'Equilibrium_Temperature']):
+def normalize_for_cosine_similarity(df, features):
     X = df[features].values
     X_normalized = (X - X.min(axis=0)) / (X.max(axis=0) - X.min(axis=0))
     return X_normalized
@@ -52,40 +51,31 @@ def rank_by_similarity(X_normalized, planet_name, df):
 
 # In[21]:
 
-
-def plot_similarity_ranking(rankings, reference_planet):
-    # Convert rankings to DataFrame for easier plotting with Plotly
+def plot_similarity_ranking(rankings, reference_planet, plot_count=10):
     rankings_df = pd.DataFrame(rankings, columns=['Planet_Name', 'Similarity_Score'])
+    top_10 = rankings_df.sort_values(by='Similarity_Score', ascending=False).head(plot_count)
+    
+    # Create the plot
+    plt.figure(figsize=(10, 6))
+    plt.bar(top_10['Planet_Name'], top_10['Similarity_Score'])
+    
+    # Customize the plot
+    plt.title(f"Top 10 Planets Most Similar to {reference_planet}")
+    plt.xlabel("Planets")
+    plt.ylabel("Similarity Score")
+    plt.xticks(rotation=45, ha='right')
 
-    # Interactive Plot with Plotly
-    fig = go.Figure(data=[
-        go.Bar(
-            x=rankings_df['Planet_Name'],
-            y=rankings_df['Similarity_Score'],
-            text=rankings_df['Similarity_Score'],
-            textposition='auto',
-            hoverinfo='text+x',
-            hovertext=[f"Similarity to {reference_planet}: {score:.3f}" for score in rankings_df['Similarity_Score']]
-        )
-    ])
+    plt.tight_layout()
 
-    # Update layout for better readability
-    fig.update_layout(
-        title=f"Similarity of Planets to {reference_planet}",
-        xaxis_title="Planets",
-        yaxis_title="Similarity Score",
-        xaxis_tickangle=-45,
-        height=600
-    )
+    plt.savefig("planet_similarity_ranking.png", dpi=100)
 
-    # Show the plot
-    fig.show()
+    plt.show()
 
 
 # In[22]:
 
 
-def planet_rank_by_similarity(planet_name, file_path="Resources/part-00000-3d57ee90-8dc9-4f89-97e6-768aa0ffce3c-c000.csv", features = ['Insolation_Flux', 'Equilibrium_Temperature']):
+def planet_rank_by_similarity(planet_name, file_path, features):
     df = load_dataset(file_path)
     X_normalized = normalize_for_cosine_similarity(df, features)
     ranks = rank_by_similarity(X_normalized, planet_name, df)
@@ -94,8 +84,9 @@ def planet_rank_by_similarity(planet_name, file_path="Resources/part-00000-3d57e
 
 # In[ ]:
 
+if __name__ == "__main__":
+    planet_name = "CoRoT-31 b"
+    ranks = planet_rank_by_similarity(planet_name, file_path="../CSV_Files/Cleaned Dataset.csv", features=["Planet_Mass_Earth", "Equilibrium_Temperature", "ra"])
+    plot_similarity_ranking(ranks, planet_name, 30)
 
-#planet_name = "CoRoT-31 b"
-#ranks = planet_rank_by_similarity(planet_name)
-#plot_similarity_ranking(ranks, planet_name)
 
