@@ -8,15 +8,15 @@ import numpy as np
 import sys
 import os
 
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "machine_analysis")))
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "Exopredict-Machine-Learning-Iaroslav")))
 
 import rank_stars
 import rank_planets5
 import nn_exo_planets
 
-STAR_DATASET_FILE_PATH = '../CSV_Files/Cleaned Dataset.csv'
+STAR_DATASET_FILE_PATH = '../Output/CSV_Files/Cleaned Dataset.csv'
 OUTPUT_DIR = 'static/charts/'
-MODEL_DIR = '../machine_analysis'
+MODEL_DIR = '../Exopredict-Machine-Learning-Iaroslav'
 
 MODEL = None
 SCALER = None
