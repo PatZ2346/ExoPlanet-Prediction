@@ -98,6 +98,10 @@ def plot_similarity_ranking(rankings, reference_star):
     fig.show()
     return fig
 
+def extract_host_stars(file_path):
+    df = pd.read_csv(file_path, usecols=['Host_Star', 'ra', 'dec'])
+    df = df.drop_duplicates().dropna()
+    return df.to_dict(orient='records')
 
 # In[6]:
 

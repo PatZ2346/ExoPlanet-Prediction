@@ -2,6 +2,8 @@
 from flask import Flask, render_template, request,send_from_directory, jsonify
 import uuid
 import plotly.express as px
+import pandas as pd
+import numpy as np
 
 import sys
 import os
@@ -35,11 +37,39 @@ def generate_star_html(selected_star):
     
     return chart_filename
 
+def extract_host_stars():
+    return rank_stars.extract_host_stars(STAR_DATASET_FILE_PATH)
+
+def generate_sphere_data():
+    df = pd.read_csv(STAR_DATASET_FILE_PATH)
+    ra = df['ra'].apply(np.radians)
+    dec = df['dec'].apply(np.radians)
+
+    x = np.cos(ra) * np.cos(dec)
+    y = np.sin(ra) * np.cos(dec)
+    z = np.sin(dec)
+
+    scale = 1000.0  
+    positions = np.column_stack((x, y, z)) * scale
+
+    unique_stars = df['Host_Star'].unique()
+    return jsonify({
+        'stars': unique_stars.tolist(),
+        'positions': positions.tolist()
+    })
+    
+def convert_ra_to_rad(ra_str):
+    # RA is given in hours, minutes, seconds; convert it to radians
+    ra_parts = ra_str.split('h')
+    ra_deg = float(ra_parts[0]) * 15  # 1 hour = 15 degrees
+    return np.radians(ra_deg)
+
 app = Flask(__name__)
 
 @app.route('/')
 def home():
-    return render_template('index.html')
+    host_stars = extract_host_stars()
+    return render_template('index.html', host_stars=host_stars)
 
 @app.route('/rank-star')
 def rank_star():
@@ -59,6 +89,31 @@ def view_chart(filename):
 @app.route('/charts/<filename>')
 def serve_chart(filename):
     return send_from_directory(OUTPUT_DIR, filename)
+
+@app.route('/sphere-data')
+def sphere_data():
+    # Load your CSV file
+    df = pd.read_csv(STAR_DATASET_FILE_PATH)
+    # Extract relevant columns
+    df = df[['Host_Star', 'rastr', 'dec']].dropna()
+
+    # Convert RA and Dec from degrees to radians
+    df['ra_rad'] = df['rastr'].apply(lambda x: convert_ra_to_rad(x))
+    df['dec_rad'] = df['dec'].apply(np.radians)  # Dec is already in degrees, so just convert to radians
+
+    # Convert spherical coordinates (RA, Dec) to 3D Cartesian coordinates (x, y, z)
+    df['x'] = np.cos(df['dec_rad']) * np.cos(df['ra_rad'])
+    df['y'] = np.cos(df['dec_rad']) * np.sin(df['ra_rad'])
+    df['z'] = np.sin(df['dec_rad'])
+
+    # Prepare data for plotting
+    stars = df['Host_Star'].tolist()
+    x_coords = df['x'].tolist()
+    y_coords = df['y'].tolist()
+    z_coords = df['z'].tolist()
+
+    return render_template('sphere_data.html', stars=stars, x_coords=x_coords, y_coords=y_coords, z_coords=z_coords)
+
 
 if __name__ == '__main__':
     app.run(debug=True)
