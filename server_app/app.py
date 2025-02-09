@@ -12,9 +12,14 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "m
 
 import rank_stars
 import rank_planets5
+import nn_exo_planets
 
 STAR_DATASET_FILE_PATH = '../CSV_Files/Cleaned Dataset.csv'
 OUTPUT_DIR = 'static/charts/'
+MODEL_DIR = '../machine_analysis'
+
+MODEL = None
+SCALER = None
 
 # Ensure the output directory exists
 os.makedirs(OUTPUT_DIR, exist_ok=True)
@@ -63,6 +68,10 @@ def convert_ra_to_rad(ra_str):
     ra_parts = ra_str.split('h')
     ra_deg = float(ra_parts[0]) * 15  # 1 hour = 15 degrees
     return np.radians(ra_deg)
+
+if MODEL is None or SCALER is None:
+    MODEL, SCALER = nn_exo_planets.load_model(os.path.join(MODEL_DIR, 'nn_exo_planet_model.keras'),
+                                              os.path.join(MODEL_DIR, 'X_scaler.pkl'))
 
 app = Flask(__name__)
 
@@ -113,6 +122,26 @@ def sphere_data():
     z_coords = df['z'].tolist()
 
     return render_template('sphere_data.html', stars=stars, x_coords=x_coords, y_coords=y_coords, z_coords=z_coords)
+
+# Prediction page route
+@app.route('/predict', methods=['GET', 'POST'])
+def predict():
+    if request.method == 'POST':
+        # Get input data from the form
+        temp = float(request.form['temperature'])
+        radius = float(request.form['radius'])
+        mass = float(request.form['mass'])
+        metallicity = float(request.form['metallicity'])
+        
+        input_data = np.array([[temp, radius, mass, metallicity]])
+        
+        # Run model to predict 
+        prediction = nn_exo_planets.use_model_predict(MODEL, SCALER, input_data)
+               
+        # Return the result as part of the response
+        return render_template('predict.html', prediction=prediction)
+    
+    return render_template('predict.html', prediction=None)
 
 
 if __name__ == '__main__':
