@@ -21,6 +21,12 @@ def load_and_normalize_dataset(file_path, features):
     X_normalized = (X - X.min(axis=0)) / (X.max(axis=0) - X.min(axis=0))
     return X_normalized, df
 
+# In[3]:
+def load_dataset_and_extract_star_names(file_path):
+    # Load dataset
+    df = pd.read_csv(file_path)
+    host_star_list = df['Host_Star'].tolist()
+    return host_star_list
 
 # In[4]:
 
@@ -48,8 +54,7 @@ def rank_by_similarity(X_normalized, star_name, df):
 
 # In[5]:
 
-
-def plot_similarity_ranking(rankings, reference_star):
+def plotly_similarity_ranking_obj(rankings, reference_star):
     if not rankings:
         print("No data to plot.")
         return
@@ -77,11 +82,25 @@ def plot_similarity_ranking(rankings, reference_star):
         xaxis_tickangle=-45,
         height=600
     )
+    return fig
 
-    # Show the plot
+def plotly_similarity_ranking_html(rankings, reference_star):
+    fig = plotly_similarity_ranking_obj(rankings, reference_star)
+    chart_html = fig.to_html(full_html=False)  # This generates the Plotly chart in HTML format
+    # print(chart_html)
+    return chart_html
+
+def plot_similarity_ranking(rankings, reference_star):
+    fig = plotly_similarity_ranking_obj(rankings, reference_star)
     fig.write_html("star_similarity_ranking.html")
+    # Show the plot
     fig.show()
+    return fig
 
+def extract_host_stars(file_path):
+    df = pd.read_csv(file_path, usecols=['Host_Star', 'ra', 'dec'])
+    df = df.drop_duplicates().dropna()
+    return df.to_dict(orient='records')
 
 # In[6]:
 
