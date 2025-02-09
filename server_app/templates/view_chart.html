@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>View Chart</title>
+</head>
+<body>
+    <h1>Star Chart</h1>
+    <div>
+        <iframe src="{{ url_for('serve_chart', filename=chart_filename) }}" width="100%" height="600px"></iframe>
+    </div>
+    <a href="{{ url_for('rank_star') }}">Back to Ranking</a>
+</body>
+</html>
