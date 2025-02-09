@@ -54,8 +54,7 @@ def rank_by_similarity(X_normalized, star_name, df):
 
 # In[5]:
 
-
-def plot_similarity_ranking(rankings, reference_star):
+def plotly_similarity_ranking_obj(rankings, reference_star):
     if not rankings:
         print("No data to plot.")
         return
@@ -83,10 +82,21 @@ def plot_similarity_ranking(rankings, reference_star):
         xaxis_tickangle=-45,
         height=600
     )
+    return fig
 
-    # Show the plot
+
+def plotly_similarity_ranking_html(rankings, reference_star):
+    fig = plotly_similarity_ranking_obj(rankings, reference_star)
+    chart_html = fig.to_html(full_html=False)  # This generates the Plotly chart in HTML format
+    # print(chart_html)
+    return chart_html
+
+def plot_similarity_ranking(rankings, reference_star):
+    fig = plotly_similarity_ranking_obj(rankings, reference_star)
     fig.write_html("star_similarity_ranking.html")
+    # Show the plot
     fig.show()
+    return fig
 
 
 # In[6]:
