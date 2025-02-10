@@ -7,8 +7,10 @@ from tensorflow.keras.optimizers import Adam
 import tensorflow as tf
 import sklearn as skl
 import joblib
+import shutil
 
-def create_and_save_model(file_path='Resources/part-00000-3d57ee90-8dc9-4f89-97e6-768aa0ffce3c-c000.csv', 
+def create_and_save_model(file_path='Resources/Cleaned Dataset.csv', 
+                          output_dir='../Output/ML-Output',
                           features=['Star_Temperature_K', 'Star_Radius_Solar', 'Star_Mass_Solar', 'Star_Metallicity'],
                           save_model_name='nn_exo_planet_model.keras',
                           scaler_file_name='X_scaler.pkl'):
@@ -69,6 +71,15 @@ def create_and_save_model(file_path='Resources/part-00000-3d57ee90-8dc9-4f89-97e
     model.save(save_model_name)
     # Save scaler
     joblib.dump(X_scaler, scaler_file_name)  # Save it for future use
+    
+    # Save outputs to output_dir as well
+    shutil.copy(save_model_name, output_dir + '/' + save_model_name)
+    shutil.copy(scaler_file_name, output_dir + '/' + scaler_file_name)
+    
+    np.savez(output_dir + '/train_test_data.npz', 
+         X_train=X_train, X_test=X_test, 
+         y_train=y_train, y_test=y_test, 
+         X_train_scaled=X_train_scaled, X_test_scaled=X_test_scaled)
 
 def load_model(save_model_name='nn_exo_planet_model.keras', scaler_file_name='X_scaler.pkl'):
     model = tf.keras.models.load_model(save_model_name)
@@ -82,15 +93,15 @@ def use_model_predict(model, X_scaler, star_data_raw):
     return rounded_prediction
 
 if __name__ == "__main__":
-    # create_and_save_model()
+    create_and_save_model()
     
     # Load the pre-trained model
-    model, scaler = load_model()
-    model.summary()
-    print("Model input shape:", model.input_shape)
-    print("Model output shape:",model.output_shape)
-    
-    star_data_raw  = np.array([[5800, 1.1, 1.05, 0.02]])  # Sun-like star (?)
-    prediction = use_model_predict(model, scaler, star_data_raw)
-    print("Prediction:", prediction)
+    # model, scaler = load_model()
+    # model.summary()
+    # print("Model input shape:", model.input_shape)
+    # print("Model output shape:",model.output_shape)
+    # 
+    # star_data_raw  = np.array([[5800, 1.1, 1.05, 0.02]])  # Sun-like star (?)
+    # prediction = use_model_predict(model, scaler, star_data_raw)
+    # print("Prediction:", prediction)
     
