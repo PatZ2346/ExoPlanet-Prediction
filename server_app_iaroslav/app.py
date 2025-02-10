@@ -8,7 +8,7 @@ import numpy as np
 import sys
 import os
 
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "Exopredict-Machine-Learning-Iaroslav")))
+sys.path.append(os.path.abspath('../ml_iaroslav'))
 
 import rank_stars
 import rank_planets5
@@ -16,7 +16,7 @@ import nn_exo_planets
 
 STAR_DATASET_FILE_PATH = '../Output/CSV_Files/Cleaned Dataset.csv'
 OUTPUT_DIR = 'static/charts/'
-MODEL_DIR = '../Exopredict-Machine-Learning-Iaroslav'
+MODEL_DIR = '../ml_iaroslav'
 
 MODEL = None
 SCALER = None
@@ -30,7 +30,7 @@ def extract_stars_from_csv():
 
 # Function to generate a plot based on the selected star
 def generate_star_html(selected_star):
-    X_normalized, df = rank_stars.load_and_normalize_dataset(file_path=STAR_DATASET_FILE_PATH, features=['Star_Temperature_K', 'Star_Radius_Solar', 'Star_Mass_Solar'])
+    X_normalized, df = rank_stars.load_and_normalize_dataset(file_path=STAR_DATASET_FILE_PATH, output_dir=None, features=['Star_Temperature_K', 'Star_Radius_Solar', 'Star_Mass_Solar'])
     rankings = rank_stars.rank_by_similarity(X_normalized, selected_star, df)
     fig = rank_stars.plotly_similarity_ranking_obj(rankings, selected_star)
     # Generate a unique filename for the chart HTML
