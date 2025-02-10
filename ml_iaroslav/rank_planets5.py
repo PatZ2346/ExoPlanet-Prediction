@@ -10,6 +10,7 @@ import pandas as pd
 from sklearn.metrics.pairwise import cosine_distances
 import numpy as np
 import matplotlib.pyplot as plt
+import shutil
 
 # In[18]:
 
@@ -24,8 +25,14 @@ def load_dataset(file_path):
 
 
 # Normalize the features for cosine similarity
-def normalize_for_cosine_similarity(df, features):
-    X = df[features].values
+def normalize_for_cosine_similarity(output_dir, df, features):
+    new_df = df[features]
+    try:
+        new_df.to_csv(output_dir + '/planet_rank_features.csv', index=False)
+    except Exception as e:
+        print(f"Failed to save planet_rank_features.csv: {e}")
+
+    X = new_df.values   
     X_normalized = (X - X.min(axis=0)) / (X.max(axis=0) - X.min(axis=0))
     return X_normalized
 
@@ -51,7 +58,7 @@ def rank_by_similarity(X_normalized, planet_name, df):
 
 # In[21]:
 
-def plot_similarity_ranking(rankings, reference_planet, plot_count=10):
+def plot_similarity_ranking(rankings, reference_planet, output_dir, plot_count=10):
     rankings_df = pd.DataFrame(rankings, columns=['Planet_Name', 'Similarity_Score'])
     top_10 = rankings_df.sort_values(by='Similarity_Score', ascending=False).head(plot_count)
     
@@ -68,6 +75,11 @@ def plot_similarity_ranking(rankings, reference_planet, plot_count=10):
     plt.tight_layout()
 
     plt.savefig("planet_similarity_ranking.png", dpi=100)
+    
+    try:
+        shutil.copy("planet_similarity_ranking.png", output_dir + '/planet_similarity_ranking.png')
+    except Exception as e:
+        print(f"Failed to copy planet_similarity_ranking: {e}")
 
     plt.show()
 
@@ -75,9 +87,9 @@ def plot_similarity_ranking(rankings, reference_planet, plot_count=10):
 # In[22]:
 
 
-def planet_rank_by_similarity(planet_name, file_path, features):
+def planet_rank_by_similarity(planet_name, file_path, output_dir, features):
     df = load_dataset(file_path)
-    X_normalized = normalize_for_cosine_similarity(df, features)
+    X_normalized = normalize_for_cosine_similarity(output_dir, df, features)
     ranks = rank_by_similarity(X_normalized, planet_name, df)
     return ranks
 
@@ -86,7 +98,7 @@ def planet_rank_by_similarity(planet_name, file_path, features):
 
 if __name__ == "__main__":
     planet_name = "CoRoT-31 b"
-    ranks = planet_rank_by_similarity(planet_name, file_path="../CSV_Files/Cleaned Dataset.csv", features=["Planet_Mass_Earth", "Equilibrium_Temperature", "ra"])
-    plot_similarity_ranking(ranks, planet_name, 30)
+    ranks = planet_rank_by_similarity(planet_name, file_path="Resources/Cleaned Dataset.csv", output_dir="../Output/CSV_Files", features=["Planet_Mass_Earth", "Equilibrium_Temperature", "ra"])
+    plot_similarity_ranking(rankings=ranks, reference_planet=planet_name, output_dir="../Output/Visualisations", plot_count=30)
 
 
