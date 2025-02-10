@@ -8,16 +8,24 @@ import numpy as np
 from sklearn.metrics.pairwise import cosine_distances
 import plotly.graph_objects as go
 import pandas as pd
-
+import shutil
 
 # In[2]:
 
-def load_and_normalize_dataset(file_path, features):
+def load_and_normalize_dataset(file_path, output_dir, features):
     # Load dataset
     df = pd.read_csv(file_path)
 
     # Normalize the features for cosine similarity
-    X = df[features].values
+    new_df = df[features]
+    
+    if output_dir is not None:
+        try:
+            new_df.to_csv(output_dir + '/star_rank_features.csv', index=False)
+        except Exception as e:
+            print(f"Failed to save star_rank_features.csv: {e}")
+        
+    X = new_df.values    
     X_normalized = (X - X.min(axis=0)) / (X.max(axis=0) - X.min(axis=0))
     return X_normalized, df
 
@@ -90,9 +98,16 @@ def plotly_similarity_ranking_html(rankings, reference_star):
     # print(chart_html)
     return chart_html
 
-def plot_similarity_ranking(rankings, reference_star):
+def plot_similarity_ranking(output_dir, rankings, reference_star):
     fig = plotly_similarity_ranking_obj(rankings, reference_star)
     fig.write_html("star_similarity_ranking.html")
+    
+    if output_dir is not None:
+        try:
+            shutil.copy("star_similarity_ranking.html", output_dir + '/star_similarity_ranking.html')
+        except Exception as e:
+            print(f"Failed to copy star_similarity_ranking: {e}")
+        
     # Show the plot
     fig.show()
     return fig
@@ -109,7 +124,7 @@ if __name__ == "__main__":
     # Example usage
     selected_star = "Kepler-107"  # Change this to any star in dataset
     # Rank and plot stars by similarity to the selected star
-    X_normalized, df = load_and_normalize_dataset(file_path="../CSV_Files/Cleaned Dataset.csv", features=['Star_Temperature_K', 'Star_Radius_Solar', 'Star_Mass_Solar'])
+    X_normalized, df = load_and_normalize_dataset(file_path="Resources/Cleaned Dataset.csv", output_dir="../Output/CSV_Files", features=['Star_Temperature_K', 'Star_Radius_Solar', 'Star_Mass_Solar'])
     rankings = rank_by_similarity(X_normalized, selected_star, df)
-    plot_similarity_ranking(rankings, selected_star)
+    plot_similarity_ranking(output_dir="../Output/Visualisations", rankings=rankings, reference_star=selected_star)
 
