@@ -4,48 +4,35 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Interactive Star Map on Celestial Sphere</title>
-    <!-- Plotly.js -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 </head>
+<style>
+    body, html {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+    }
+
+    #chart {
+        width: 100%;
+        height: 100vh; /* Take up the full viewport height */
+    }
+</style>
 <body>
     <h1>Stars on the Celestial Sphere</h1>
     <div id="chart"></div>
 
+    <!-- Pass Flask variables into JavaScript -->
     <script>
-        // Receive the star data from Flask
+        // Pass data from Flask to JavaScript
         const stars = {{ stars | tojson }};
         const x_coords = {{ x_coords | tojson }};
         const y_coords = {{ y_coords | tojson }};
         const z_coords = {{ z_coords | tojson }};
-
-        // Create the 3D scatter plot trace
-        const trace = {
-            x: x_coords,
-            y: y_coords,
-            z: z_coords,
-            mode: 'markers',
-            type: 'scatter3d',
-            text: stars,
-            marker: {
-                size: 5,
-                color: 'rgba(255, 0, 0, 0.6)',
-                line: { width: 2 }
-            }
-        };
-
-        // Define layout for the celestial sphere
-        const layout = {
-            title: 'Stars on the Celestial Sphere',
-            scene: {
-                xaxis: { showgrid: false, zeroline: false },
-                yaxis: { showgrid: false, zeroline: false },
-                zaxis: { showgrid: false, zeroline: false }
-            },
-            showlegend: false
-        };
-
-        // Plot the celestial sphere
-        Plotly.newPlot('chart', [trace], layout);
     </script>
+
+    <!-- Link to external JavaScript file -->
+    <script src="{{ url_for('static', filename='stars.js') }}" defer></script>
 </body>
 </html>
