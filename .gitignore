@@ -2,6 +2,7 @@ server_app_iaroslav/static/charts/
 server_app_iaroslav/star_similarity_ranking.html
 ml_iaroslav/star_similarity_ranking.html
 Exopredict-Data Analysis Questions/planet_similarity_ranking.png
+Exopredict-Data Analysis Questions/star_similarity_ranking.html
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
