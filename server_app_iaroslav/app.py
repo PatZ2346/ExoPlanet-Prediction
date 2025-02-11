@@ -21,8 +21,18 @@ MODEL_DIR = '../ml_iaroslav'
 MODEL = None
 SCALER = None
 
-# Ensure the output directory exists
-os.makedirs(OUTPUT_DIR, exist_ok=True)
+def clean_directory(directory):
+    # Deletes all files in the specified directory
+    if os.path.exists(directory):
+        for filename in os.listdir(directory):
+            file_path = os.path.join(directory, filename)
+            try:
+                if os.path.isfile(file_path) or os.path.islink(file_path):
+                    os.remove(file_path)  # Remove file or symbolic link
+                elif os.path.isdir(file_path):
+                    shutil.rmtree(file_path)  # Remove entire folder
+            except Exception as e:
+                print(f"Failed to delete {file_path}: {e}")
 
 def extract_stars_from_csv():
     stars = rank_stars.load_dataset_and_extract_star_names(STAR_DATASET_FILE_PATH)
@@ -72,6 +82,12 @@ def convert_ra_to_rad(ra_str):
 if MODEL is None or SCALER is None:
     MODEL, SCALER = nn_exo_planets.load_model(os.path.join(MODEL_DIR, 'nn_exo_planet_model.keras'),
                                               os.path.join(MODEL_DIR, 'X_scaler.pkl'))
+
+
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    # Clean up data inside directory
+    # Bad practice, but do it on start for simplicity
+    clean_directory(OUTPUT_DIR)
 
 app = Flask(__name__)
 
