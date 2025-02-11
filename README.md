@@ -39,47 +39,31 @@ The processed data was saved as structured CSV files for further analysis and vi
 
 ## Research Questions & Analysis
 
-1. Can we identify groups of similar exoplanets?
+## 1. How do planetary characteristics influence the likelihood of being in the habitable zone? (Mandeep)
 
-Applied K-Means clustering on features like mass, radius, and temperature.
+Answer: The habitable zone (HZ) depends on the semi-major axis (AU) and star temperature (K). We'll classify planets as potentially habitable based on their distance from the star (semi-major axis) and the equilibrium temperature.
 
-Created scatter plots to visualize clusters.
+    We'll consider a planet inside the habitable zone if: Semi-major axis (AU) falls within the range for a Sun-like star (0.38 - 1.5 AU).
 
-2. Can we classify planets into different categories (e.g., rocky, gas giants)?
+    Equilibrium temperature falls between 200K and 320K.
+    Analysis: 
+      Only 7 out of 1130 planets (~0.62%) fall into the potentially habitable category.
+         Most planets do not meet the criteria for being in the habitable zone.
+Key Influencing Factors:
+        Semi-Major Axis (AU): Planets too close or too far from their stars receive too much or too little radiation, making them unsuitable for life.
+       Equilibrium Temperature (K): Planets with extreme temperatures (very high or low) are unlikely to support liquid water.
+       Star Temperature (K): Cooler stars (red dwarfs) have closer habitable zones, while hotter stars require planets to be farther out.
 
-Used Random Forest Classification to predict planet types based on key features.
+## 2. How does a planet’s orbit impact its temperature and potential habitability?(Mandeep)
 
-Evaluated model accuracy and visualized class distributions.
+Answer: The orbital eccentricity and semi-major axis influence temperature variations. We will analyze how eccentric orbits lead to temperature fluctuations and impact habitability.
 
-3 & 4. Classifying planets by insolation, temperature, and mass
+   Highly eccentric orbits (e > 0.3) cause significant temperature fluctuations during different phases of orbit. We will compare eccentric vs. circular orbits to see how temperature variability impacts habitability.
 
-Analyzed planetary properties concerning stellar radiation and location.
-
-Generated pair plots to visualize relationships between features.
-
-5. How do planetary characteristics influence habitability?
-
-Examined semi-major axis vs. temperature to determine habitability.
-
-Saved results and plotted scatter diagrams.
-
-6. How does a planet’s orbit impact its temperature and habitability?
-
-Analyzed correlations between orbital distance and temperature.
-
-Created line plots to showcase trends.
-
-7. Is there a correlation between discovery facilities and methods used?
-
-Grouped exoplanet discoveries by facility and detection method.
-
-Visualized the distribution using bar charts.
-
-8. How does host star distance influence planetary characteristics?
-
-Studied the impact of host star distance on exoplanet temperature and mass.
-
-Saved insights into structured CSV files.
+Analysis: 
+    Highly Eccentric Orbits (e > 0.3) show greater temperature variations, meaning these planets experience extreme seasonal changes.
+   Circular/Stable Orbits (e ≤ 0.3) have more stable temperatures, making them better candidates for habitability.
+   If a planet has high eccentricity, it may enter and exit the habitable zone multiple times during an orbit, making sustained habitability unlikely.
 
 
 # Resources
