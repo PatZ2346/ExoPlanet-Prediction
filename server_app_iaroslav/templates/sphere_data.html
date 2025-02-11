@@ -16,11 +16,46 @@
 
     #chart {
         width: 100%;
-        height: 100vh; /* Take up the full viewport height */
+        height: 80vh; /* Take up 80% of the viewport height for the chart */
+    }
+
+    #info {
+        padding: 20px;
+        background-color: #f4f4f9;
+        font-family: Arial, sans-serif;
+    }
+
+    #info h2 {
+        margin-top: 0;
+    }
+
+    #info ul {
+        list-style-type: none;
+        padding-left: 0;
+    }
+
+    #info li {
+        margin-bottom: 10px;
+    }
+
+    #info li span {
+        font-weight: bold;
     }
 </style>
 <body>
     <h1>Stars on the Celestial Sphere</h1>
+
+    <!-- Information section about X, Y, Z coordinates -->
+    <div id="info">
+        <h2>Coordinate System for Stars</h2>
+        <ul>
+            <li><span>X (Right Ascension & Declination based):</span> Represents the horizontal position of the star in a 3D space. Derived from the RA and Dec angles. Uses <code>cos(RA) * cos(Dec)</code></li>
+            <li><span>Y (Right Ascension & Declination based):</span> Represents the depth (or side-to-side position) in a 3D space. Derived from RA and Dec. Uses <code>sin(RA) * cos(Dec)</code></li>
+            <li><span>Z (Declination):</span> Represents the height of the star in the celestial sphere. Directly based on the Declination (Dec). Uses <code>sin(Dec)</code></li>
+        </ul>
+    </div>
+
+    <!-- The 3D chart -->
     <div id="chart"></div>
 
     <!-- Pass Flask variables into JavaScript -->
