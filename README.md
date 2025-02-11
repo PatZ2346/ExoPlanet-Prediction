@@ -54,6 +54,9 @@ Key Influencing Factors:
        Equilibrium Temperature (K): Planets with extreme temperatures (very high or low) are unlikely to support liquid water.
        Star Temperature (K): Cooler stars (red dwarfs) have closer habitable zones, while hotter stars require planets to be farther out.
 
+![habitable_vs_non_habitable_planets.png](https://github.com/AMRITKAUR89/ExoPredict-Classifying-and-Predicting-Exoplanet-Characteristics/blob/main/Output/Visualisations/habitable_vs_non_habitable_planets.png)
+
+
 ## 2. How does a planet’s orbit impact its temperature and potential habitability?(Mandeep)
 
 Answer: The orbital eccentricity and semi-major axis influence temperature variations. We will analyze how eccentric orbits lead to temperature fluctuations and impact habitability.
@@ -64,6 +67,8 @@ Analysis:
     Highly Eccentric Orbits (e > 0.3) show greater temperature variations, meaning these planets experience extreme seasonal changes.
    Circular/Stable Orbits (e ≤ 0.3) have more stable temperatures, making them better candidates for habitability.
    If a planet has high eccentricity, it may enter and exit the habitable zone multiple times during an orbit, making sustained habitability unlikely.
+
+![orbit_temperature_analysis.png](https://github.com/AMRITKAUR89/ExoPredict-Classifying-and-Predicting-Exoplanet-Characteristics/blob/main/Output/Visualisations/orbit_temperature_analysis.png)
 
 
 # Resources
