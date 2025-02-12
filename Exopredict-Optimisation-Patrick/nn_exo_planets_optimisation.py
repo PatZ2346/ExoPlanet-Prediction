@@ -80,6 +80,13 @@ def create_and_save_model(file_path='ml_iaroslav/Resources/Cleaned Dataset.csv',
     model_loss, model_accuracy = model.evaluate(X_test_scaled, y_test, verbose=2)
     print(f"Loss: {model_loss}, Accuracy: {model_accuracy}")
 
+    # Example prediction for a Sun-like star
+    star_data_raw = np.array([[5800, 1.1, 1.05, 0.02]])  # Sun-like star (?)
+    star_data_scaled = X_scaler.transform(star_data_raw)
+    prediction = model.predict(star_data_scaled)
+    rounded_prediction = round(prediction[0, 0])
+    print("Prediction:", rounded_prediction)
+
     # Save model
     model.save(save_model_name)
     # Save scaler
@@ -98,14 +105,15 @@ def create_and_save_model(file_path='ml_iaroslav/Resources/Cleaned Dataset.csv',
     results = {
         "model_loss": model_loss,
         "model_accuracy": model_accuracy,
-        "training_history": history.history
+        "training_history": history.history,
+        "final_prediction": rounded_prediction
     }
     with open(output_dir + '/' + results_file_name, 'w') as f:
         json.dump(results, f)
 
     # Save iterative changes and performance metrics to a CSV file
     with open(output_dir + '/' + performance_csv, 'w', newline='') as csvfile:
-        fieldnames = ['epoch', 'loss', 'val_loss', 'accuracy', 'val_accuracy']
+        fieldnames = ['epoch', 'loss', 'val_loss', 'accuracy', 'val_accuracy', 'prediction']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
         writer.writeheader()
@@ -115,8 +123,19 @@ def create_and_save_model(file_path='ml_iaroslav/Resources/Cleaned Dataset.csv',
                 'loss': history.history['loss'][epoch],
                 'val_loss': history.history['val_loss'][epoch],
                 'accuracy': history.history['accuracy'][epoch],
-                'val_accuracy': history.history['val_accuracy'][epoch]
+                'val_accuracy': history.history['val_accuracy'][epoch],
+                'prediction': 'N/A'
             })
+
+        # Add final evaluation metrics and prediction as the last row
+        writer.writerow({
+            'epoch': 'final',
+            'loss': model_loss,
+            'val_loss': 'N/A',  # No validation loss for final evaluation
+            'accuracy': model_accuracy,
+            'val_accuracy': 'N/A',  # No validation accuracy for final evaluation
+            'prediction': rounded_prediction  # Add prediction result
+        })
 
 def load_model(save_model_name='Exopredict-Optimisation-Patrick/nn_exo_planet_model.keras', scaler_file_name='Exopredict-Optimisation-Patrick/X_scaler.pkl'):
     model = tf.keras.models.load_model(save_model_name)
