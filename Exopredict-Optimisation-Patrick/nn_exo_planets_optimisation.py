@@ -10,13 +10,15 @@ import sklearn as skl
 import joblib
 import shutil
 import json
+import csv
 
 def create_and_save_model(file_path='ml_iaroslav/Resources/Cleaned Dataset.csv', 
                           output_dir='Exopredict-Optimisation-Patrick',
                           features=['Star_Temperature_K', 'Star_Radius_Solar', 'Star_Mass_Solar', 'Star_Metallicity'],
                           save_model_name='nn_exo_planet_model.keras',
                           scaler_file_name='X_scaler.pkl',
-                          results_file_name='results.json'):
+                          results_file_name='results.json',
+                          performance_csv='performance_metrics.csv'):
     # Load dataset
     df = pd.read_csv(file_path)
 
@@ -101,6 +103,21 @@ def create_and_save_model(file_path='ml_iaroslav/Resources/Cleaned Dataset.csv',
     with open(output_dir + '/' + results_file_name, 'w') as f:
         json.dump(results, f)
 
+    # Save iterative changes and performance metrics to a CSV file
+    with open(output_dir + '/' + performance_csv, 'w', newline='') as csvfile:
+        fieldnames = ['epoch', 'loss', 'val_loss', 'accuracy', 'val_accuracy']
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+
+        writer.writeheader()
+        for epoch in range(len(history.history['loss'])):
+            writer.writerow({
+                'epoch': epoch + 1,
+                'loss': history.history['loss'][epoch],
+                'val_loss': history.history['val_loss'][epoch],
+                'accuracy': history.history['accuracy'][epoch],
+                'val_accuracy': history.history['val_accuracy'][epoch]
+            })
+
 def load_model(save_model_name='Exopredict-Optimisation-Patrick/nn_exo_planet_model.keras', scaler_file_name='Exopredict-Optimisation-Patrick/X_scaler.pkl'):
     model = tf.keras.models.load_model(save_model_name)
     X_scaler = joblib.load(scaler_file_name)
@@ -114,3 +131,9 @@ def use_model_predict(model, X_scaler, star_data_raw):
 
 if __name__ == "__main__":
     create_and_save_model()
+
+    # Example of loading the pre-trained model and making predictions
+    model, scaler = load_model()
+    star_data_raw = np.array([[5800, 1.1, 1.05, 0.02]])  # Sun-like star (?)
+    prediction = use_model_predict(model, scaler, star_data_raw)
+    print("Prediction:", prediction)
