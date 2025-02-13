@@ -1,0 +1,642 @@
+Planet_Name,Orbital_Eccentricity,Equilibrium_Temperature,Orbit_Type,orb_id
+TOI-674 b,0.0,635,Circular/Stable,637
+HIP 94235 b,0.32,1060,Highly Eccentric,1062
+HATS-8 b,0.376,1324,Highly Eccentric,1326
+NGTS-9 b,0.06,1448,Circular/Stable,1450
+NGTS-2 b,0.0,1468,Circular/Stable,1470
+TOI-2803 A b,0.0,1893,Circular/Stable,1895
+Kepler-22 b,0.72,279,Highly Eccentric,281
+K2-416 b,0.09342613987473893,447,Circular/Stable,449
+K2-141 c,0.092,695,Circular/Stable,697
+EPIC 220674823 b,0.0,2300,Circular/Stable,2302
+Kepler-1704 b,0.92,254,Highly Eccentric,256
+TOI-1231 b,0.087,330,Circular/Stable,332
+HD 191939 c,0.034,600,Circular/Stable,602
+TOI-4137 b,0.0,1570,Circular/Stable,1572
+TOI-1295 b,0.024,2360,Circular/Stable,2362
+TOI-2136 b,0.0,395,Circular/Stable,397
+TOI-1695 b,0.097,698,Circular/Stable,700
+TOI-269 b,0.425,531,Highly Eccentric,533
+TOI-561 c,0.03,800,Circular/Stable,802
+Kepler-426 b,0.18,1300,Circular/Stable,1302
+WASP-36 b,0.09342613987473893,1733,Circular/Stable,1735
+Qatar-10 b,0.0,1955,Circular/Stable,1957
+K2-79 b,0.23,1022,Circular/Stable,1024
+TOI-480 b,0.0,1199,Circular/Stable,1201
+Kepler-107 c,0.08,1378,Circular/Stable,1380
+HAT-P-68 b,0.041,1028,Circular/Stable,1030
+Qatar-9 b,0.0,1134,Circular/Stable,1136
+TOI-1107 b,0.025,1728,Circular/Stable,1730
+Kepler-41 b,0.0,1790,Circular/Stable,1792
+TOI-561 b,0.0,2310,Circular/Stable,2312
+Qatar-6 b,0.0,1006,Circular/Stable,1008
+TOI-500 b,0.063,1617,Circular/Stable,1619
+HD 80653 b,0.0,2463,Circular/Stable,2465
+HD 6061 b,0.0,1075,Circular/Stable,1077
+K2-3 d,0.091,305,Circular/Stable,307
+K2-233 b,0.079,1121,Circular/Stable,1123
+TOI-1221 b,0.21,440,Circular/Stable,442
+TOI-2088 b,0.0,300,Circular/Stable,302
+Kepler-103 b,0.093,973,Circular/Stable,975
+TOI-5344 b,0.054,689,Circular/Stable,691
+TOI-5205 b,0.02,737,Circular/Stable,739
+K2-238 b,0.0,1587,Circular/Stable,1589
+TOI-6016 b,0.0,1890,Circular/Stable,1892
+Kepler-21 b,0.0,2015,Circular/Stable,2017
+HATS-18 b,0.09342613987473893,2069,Circular/Stable,2071
+TOI-270 b,0.034,581,Circular/Stable,583
+TOI-1749 b,0.14,831,Circular/Stable,833
+HD 110113 b,0.093,1371,Circular/Stable,1373
+TOI-1333 b,0.073,1679,Circular/Stable,1681
+WASP-153 b,0.009,1700,Circular/Stable,1702
+Kepler-1654 b,0.26,206,Circular/Stable,208
+WASP-181 b,0.09342613987473893,1186,Circular/Stable,1188
+NGTS-27 b,0.0,1783,Circular/Stable,1785
+Kepler-87 c,0.039,403,Circular/Stable,405
+TOI-3757 b,0.14,759,Circular/Stable,761
+WASP-144 b,0.0,1260,Circular/Stable,1262
+WASP-171 b,0.0,1642,Circular/Stable,1644
+TOI-519 b,0.33,687,Highly Eccentric,689
+TOI-6383 A b,0.05,745,Circular/Stable,747
+TOI-5616 b,0.0,939,Circular/Stable,941
+HATS-76 b,0.062,940,Circular/Stable,942
+NGTS-25 b,0.0,1101,Circular/Stable,1103
+HAT-P-16 b,0.036,1626,Circular/Stable,1628
+HD 213885 b,0.0,2128,Circular/Stable,2130
+HD 23472 c,0.063,467,Circular/Stable,469
+LTT 9779 b,0.0,1978,Circular/Stable,1980
+K2-32 d,0.05,550,Circular/Stable,552
+K2-182 b,0.071,966,Circular/Stable,968
+WASP-19 b,0.0126,2113,Circular/Stable,2115
+Kepler-62 e,0.09342613987473893,270,Circular/Stable,272
+TOI-663 b,0.09342613987473893,674,Circular/Stable,676
+TOI-2587 A b,0.0,1445,Circular/Stable,1447
+TOI-4087 b,0.0,1458,Circular/Stable,1460
+HD 110067 d,0.09342613987473893,602,Circular/Stable,604
+K2-100 b,0.0,1841,Circular/Stable,1843
+TOI-1899 b,0.044,378,Circular/Stable,380
+EPIC 220674823 c,0.13,805,Circular/Stable,807
+TOI-421 b,0.13,922,Circular/Stable,924
+WASP-81 b,0.066,1623,Circular/Stable,1625
+HAT-P-45 b,0.049,1652,Circular/Stable,1654
+EPIC 246851721 b,0.09342613987473893,1401,Circular/Stable,1403
+TOI-150.01,0.262,1404,Circular/Stable,1406
+TOI-157 b,0.0,1588,Circular/Stable,1590
+TOI-564 b,0.072,1714,Circular/Stable,1716
+GJ 1132 b,0.0118,584,Circular/Stable,586
+TOI-836 c,0.078,665,Circular/Stable,667
+LP 714-47 b,0.04,700,Circular/Stable,702
+HD 332231 b,0.0,798,Circular/Stable,800
+WASP-42 b,0.09342613987473893,1021,Circular/Stable,1023
+TOI-1751 b,0.327,652,Highly Eccentric,654
+GJ 3473 b,0.0,773,Circular/Stable,775
+WASP-123 b,0.0,1520,Circular/Stable,1522
+LHS 1478 b,0.09342613987473893,595,Circular/Stable,597
+TOI-4145 A b,0.0,1074,Circular/Stable,1076
+HD 106315 b,0.093,1153,Circular/Stable,1155
+Kepler-1876 b,0.098,1299,Circular/Stable,1301
+CoRoT-25 b,0.0,1330,Circular/Stable,1332
+TOI-2818 b,0.0,1376,Circular/Stable,1378
+Kepler-1661 b,0.057,243,Circular/Stable,245
+HD 95338 b,0.197,385,Circular/Stable,387
+TOI-3629 b,0.05,690,Circular/Stable,692
+HATS-17 b,0.029,814,Circular/Stable,816
+TOI-2000 c,0.063,1038,Circular/Stable,1040
+TOI-2529 b,0.021,636,Circular/Stable,638
+TOI-2128 b,0.0,781,Circular/Stable,783
+HAT-P-54 b,0.074,818,Circular/Stable,820
+GJ 414 A c,0.105,125,Circular/Stable,127
+K2-292 b,0.04,795,Circular/Stable,797
+TOI-1269 b,0.0,1005,Circular/Stable,1007
+TOI-2524 b,0.0,1100,Circular/Stable,1102
+HATS-55 b,0.092,1367,Circular/Stable,1369
+HATS-57 b,0.028,1413,Circular/Stable,1415
+CoRoT-12 b,0.07,1442,Circular/Stable,1444
+HAT-P-52 b,0.047,1218,Circular/Stable,1220
+WASP-65 b,0.0,1480,Circular/Stable,1482
+WASP-104 b,0.0,1516,Circular/Stable,1518
+TOI-1470 b,0.3,734,Circular/Stable,736
+TOI-1064 b,0.047,784,Circular/Stable,786
+TOI-5153 b,0.091,906,Circular/Stable,908
+HATS-1 b,0.12,1359,Circular/Stable,1361
+HD 110067 c,0.09342613987473893,699,Circular/Stable,701
+WASP-166 b,0.0,1270,Circular/Stable,1272
+Kepler-7 b,0.09342613987473893,1630,Circular/Stable,1632
+TOI-411 c,0.09342613987473893,931,Circular/Stable,933
+HATS-59 b,0.129,1128,Circular/Stable,1130
+WASP-57 b,0.09342613987473893,1338,Circular/Stable,1340
+HATS-53 b,0.33,1312,Highly Eccentric,1314
+TOI-3912 b,0.0,1512,Circular/Stable,1514
+TOI-2714 b,0.164,1603,Circular/Stable,1605
+TOI-5634 A b,0.0,837,Circular/Stable,839
+HATS-69 b,0.519,1296,Highly Eccentric,1298
+TOI-4600 c,0.21,191,Circular/Stable,193
+WASP-160 B b,0.0,1119,Circular/Stable,1121
+GJ 3929 b,0.0,568,Circular/Stable,570
+TOI-3235 b,0.029,604,Circular/Stable,606
+TOI-3819 b,0.0,1633,Circular/Stable,1635
+TOI-1246 e,0.0,464,Circular/Stable,466
+Qatar-2 b,0.0,1344,Circular/Stable,1346
+TOI-4127 b,0.7471,605,Highly Eccentric,607
+LTT 3780 b,0.0,903,Circular/Stable,905
+TOI-2842 b,0.0,1471,Circular/Stable,1473
+NGTS-13 b,0.086,1605,Circular/Stable,1607
+TOI-3261 b,0.0,1722,Circular/Stable,1724
+HD 137496 b,0.0,2130,Circular/Stable,2132
+TOI-762 A b,0.083,555,Circular/Stable,557
+TOI-905 b,0.024,1192,Circular/Stable,1194
+Kepler-44 b,0.066,1544,Circular/Stable,1546
+TOI-2095 c,0.0,297,Circular/Stable,299
+Kepler-102 f,0.1,495,Circular/Stable,497
+HD 73583 b,0.09,714,Circular/Stable,716
+TOI-181 b,0.1543,895,Circular/Stable,897
+TOI-559 b,0.151,1180,Circular/Stable,1182
+TOI-1937 A b,0.0,2097,Circular/Stable,2099
+HD 136352 d,0.0,431,Circular/Stable,433
+TOI-776 b,0.052,520,Circular/Stable,522
+HAT-P-42 b,0.0,1428,Circular/Stable,1430
+WASP-64 b,0.0,1689,Circular/Stable,1691
+Kepler-103 c,0.095,434,Circular/Stable,436
+HD 15337 c,0.05,642,Circular/Stable,644
+TOI-2384 b,0.0,890,Circular/Stable,892
+HATS-48 A b,0.162,955,Circular/Stable,957
+TOI-2368 b,0.061,1000,Circular/Stable,1002
+TOI-132 b,0.059,1395,Circular/Stable,1397
+WASP-114 b,0.012,2043,Circular/Stable,2045
+TOI-1266 c,0.34,354,Highly Eccentric,356
+CoRoT-27 b,0.065,1500,Circular/Stable,1502
+WASP-175 b,0.0,1571,Circular/Stable,1573
+Kepler-433 b,0.119,1776,Circular/Stable,1778
+HATS-29 b,0.158,1212,Circular/Stable,1214
+Kepler-68 b,0.09,1275,Circular/Stable,1277
+NGTS-17 b,0.0,1457,Circular/Stable,1459
+TIC 393818343 b,0.6058,806,Highly Eccentric,808
+TOI-178 c,0.09342613987473893,873,Circular/Stable,875
+K2-25 b,0.428,494,Highly Eccentric,496
+K2-199 b,0.02,913,Circular/Stable,915
+HATS-40 b,0.312,2101,Highly Eccentric,2103
+WASP-167 b,0.09342613987473893,2329,Circular/Stable,2331
+KOI-3503 b,0.09342613987473893,785,Circular/Stable,787
+HATS-39 b,0.275,1645,Circular/Stable,1647
+Qatar-3 b,0.0,1681,Circular/Stable,1683
+TOI-1260 b,0.0,871,Circular/Stable,873
+HAT-P-19 b,0.09342613987473893,981,Circular/Stable,983
+K2-285 b,0.0,1089,Circular/Stable,1091
+NGTS-26 b,0.0,1331,Circular/Stable,1333
+TOI-1601 b,0.0,1494,Circular/Stable,1496
+HAT-P-65 b,0.09342613987473893,1818,Circular/Stable,1820
+TOI-4201 b,0.041,725,Circular/Stable,727
+K2-27 b,0.251,902,Circular/Stable,904
+TOI-544 b,0.0,999,Circular/Stable,1001
+HATS-30 b,0.096,1414,Circular/Stable,1416
+TOI-2015 b,0.0,512,Circular/Stable,514
+TOI-2379 b,0.342,624,Highly Eccentric,626
+Kepler-80 b,0.09342613987473893,1102,Circular/Stable,1104
+WASP-172 b,0.0,1740,Circular/Stable,1742
+CoRoT-19 b,0.047,2000,Circular/Stable,2002
+TOI-3023 b,0.0,1596,Circular/Stable,1598
+PH1 b,0.0702,481,Circular/Stable,483
+WASP-170 b,0.09342613987473893,1422,Circular/Stable,1424
+TOI-2583 A b,0.0,1456,Circular/Stable,1458
+WASP-183 b,0.09342613987473893,1111,Circular/Stable,1113
+Qatar-1 b,0.0,1418,Circular/Stable,1420
+HD 63935 b,0.0,825,Circular/Stable,827
+CoRoT-22 b,0.077,885,Circular/Stable,887
+Wendelstein-2 b,0.057,2470,Circular/Stable,2472
+WASP-59 b,0.1,670,Circular/Stable,672
+TOI-2236 b,0.0,1688,Circular/Stable,1690
+Kepler-37 c,0.099,615,Circular/Stable,617
+TOI-286 c,0.0,475,Circular/Stable,477
+WASP-140 b,0.047,1320,Circular/Stable,1322
+HATS-63 b,0.136,1398,Circular/Stable,1400
+HAT-P-1 b,0.09342613987473893,1322,Circular/Stable,1324
+TOI-669 b,0.0,1125,Circular/Stable,1127
+HATS-68 b,0.036,1741,Circular/Stable,1743
+EPIC 201595106 b,0.0,2038,Circular/Stable,2040
+TOI-3714 b,0.03,750,Circular/Stable,752
+TOI-2158 b,0.07,1188,Circular/Stable,1190
+TOI-2285 b,0.3,284,Circular/Stable,286
+Kepler-538 b,0.21,417,Circular/Stable,419
+Kepler-102 e,0.089,590,Circular/Stable,592
+TOI-1249 b,0.0,727,Circular/Stable,729
+Kepler-109 c,0.098,859,Circular/Stable,861
+HATS-43 b,0.173,1003,Circular/Stable,1005
+WASP-168 b,0.0,1340,Circular/Stable,1342
+TOI-2107 b,0.033,1397,Circular/Stable,1399
+HAT-P-39 b,0.0,1752,Circular/Stable,1754
+HD 260655 c,0.038,557,Circular/Stable,559
+TOI-1062 b,0.177,1077,Circular/Stable,1079
+TOI-2498 b,0.089,1443,Circular/Stable,1445
+PH2 b,0.215,295,Circular/Stable,297
+HD 28109 b,0.3307,881,Highly Eccentric,883
+K2-232 b,0.258,1030,Circular/Stable,1032
+TIC 237913194 b,0.575,974,Highly Eccentric,976
+NGTS-10 b,0.0,1332,Circular/Stable,1334
+TOI-6651 b,0.091,1493,Circular/Stable,1495
+TOI-2196 b,0.0,1860,Circular/Stable,1862
+Kepler-553 c,0.346,251,Highly Eccentric,253
+HAT-P-63 b,0.069,1237,Circular/Stable,1239
+HD 3167 b,0.0,1774,Circular/Stable,1776
+TOI-2134 c,0.67,306,Highly Eccentric,308
+Kepler-20 d,0.082,430,Circular/Stable,432
+TOI-2076 b,0.0,688,Circular/Stable,690
+WASP-53 b,0.03,1053,Circular/Stable,1055
+TOI-1776 b,0.0,1269,Circular/Stable,1271
+TOI-3894 b,0.05,1531,Circular/Stable,1533
+TOI-2580 b,0.08,2410,Circular/Stable,2412
+Kepler-409 b,0.69,438,Highly Eccentric,440
+TOI-663 d,0.09342613987473893,482,Circular/Stable,484
+TOI-3785 b,0.11,582,Circular/Stable,584
+HAT-P-11 b,0.2577,847,Circular/Stable,849
+K2-32 e,0.043,1066,Circular/Stable,1068
+HATS-7 b,0.17,1084,Circular/Stable,1086
+HD 1397 b,0.251,1228,Circular/Stable,1230
+Kepler-10 b,0.0,2188,Circular/Stable,2190
+TOI-5678 b,0.14,513,Circular/Stable,515
+TOI-1728 b,0.057,767,Circular/Stable,769
+TOI-1052 b,0.18,1135,Circular/Stable,1137
+HATS-51 b,0.33,1553,Highly Eccentric,1555
+CoRoT-14 b,0.0,1952,Circular/Stable,1954
+TOI-1710 b,0.0,603,Circular/Stable,605
+TOI-622 b,0.42,1388,Highly Eccentric,1390
+TOI-4406 b,0.15,904,Circular/Stable,906
+TOI-1268 b,0.105,919,Circular/Stable,921
+TOI-2641 b,0.18,1387,Circular/Stable,1389
+HATS-58 A b,0.168,1721,Circular/Stable,1723
+TOI-2134 b,0.06,666,Circular/Stable,668
+K2-38 b,0.11,1310,Circular/Stable,1312
+TOI-332 b,0.0,1871,Circular/Stable,1873
+TOI-2141 b,0.21,722,Circular/Stable,724
+HD 202772 A b,0.038,2132,Circular/Stable,2134
+KELT-16 b,0.0,2453,Circular/Stable,2455
+Kepler-138 d,0.01,345,Circular/Stable,347
+WASP-132 b,0.0163,682,Circular/Stable,684
+TOI-1272 b,0.35,975,Highly Eccentric,977
+XO-7 b,0.038,1743,Circular/Stable,1745
+K2-415 b,0.09342613987473893,412,Circular/Stable,414
+TOI-1670 c,0.09,684,Circular/Stable,686
+K2-261 b,0.274,1036,Circular/Stable,1038
+TOI-481 b,0.153,1370,Circular/Stable,1372
+HATS-54 b,0.0,1429,Circular/Stable,1431
+WASP-113 b,0.0,1496,Circular/Stable,1498
+TOI-1836 c,0.0,2008,Circular/Stable,2010
+NGTS-14 A b,0.0,1143,Circular/Stable,1145
+WASP-85 A b,0.0,1452,Circular/Stable,1454
+HD 25463 c,0.0,1586,Circular/Stable,1588
+KELT-18 b,0.0,2085,Circular/Stable,2087
+TOI-1451 b,0.0,723,Circular/Stable,725
+WASP-185 b,0.24,1160,Circular/Stable,1162
+TOI-858 B b,0.15,1529,Circular/Stable,1531
+Kepler-91 b,0.09342613987473893,2040,Circular/Stable,2042
+TOI-3884 b,0.06,441,Circular/Stable,443
+WASP-105 b,0.0,900,Circular/Stable,902
+K2-216 b,0.0,1103,Circular/Stable,1105
+TOI-329 b,0.39,1213,Highly Eccentric,1215
+TOI-1470 c,0.5,373,Highly Eccentric,375
+HD 73583 c,0.08,498,Circular/Stable,500
+HATS-60 b,0.191,1528,Circular/Stable,1530
+Kepler-849 b,0.078,363,Circular/Stable,365
+L 98-59 d,0.074,416,Circular/Stable,418
+HD 110067 f,0.09342613987473893,489,Circular/Stable,491
+KOI-1833 d,0.09342613987473893,613,Circular/Stable,615
+HD 260655 b,0.039,709,Circular/Stable,711
+NGTS-12 b,0.0,1257,Circular/Stable,1259
+TOI-1439 b,0.157,748,Circular/Stable,750
+K2-12 b,0.5,1026,Highly Eccentric,1028
+HAT-P-44 b,0.044,1108,Circular/Stable,1110
+Wendelstein-1 b,0.012,2198,Circular/Stable,2200
+TOI-1273 b,0.055,1211,Circular/Stable,1213
+EPIC 249893012 c,0.07,990,Circular/Stable,992
+TOI-2095 b,0.0,347,Circular/Stable,349
+TOI-5688 A b,0.128,742,Circular/Stable,744
+TOI-3568 b,0.035,899,Circular/Stable,901
+TOI-1288 b,0.0,1203,Circular/Stable,1205
+CoRoT-5 b,0.09,1438,Circular/Stable,1440
+GJ 414 A b,0.45,309,Highly Eccentric,311
+HATS-22 b,0.079,858,Circular/Stable,860
+WASP-89 b,0.193,1120,Circular/Stable,1122
+HAT-P-51 b,0.09342613987473893,1168,Circular/Stable,1170
+WASP-44 b,0.09342613987473893,1337,Circular/Stable,1339
+CoRoT-23 b,0.16,1660,Circular/Stable,1662
+TOI-1260 d,0.0,499,Circular/Stable,501
+GJ 3470 b,0.09342613987473893,594,Circular/Stable,596
+Kepler-1655 b,0.19,938,Circular/Stable,940
+Gliese 12 b,0.5,315,Highly Eccentric,317
+TOI-1064 c,0.088,634,Circular/Stable,636
+HD 21749 c,0.09342613987473893,701,Circular/Stable,703
+K2-287 b,0.478,804,Highly Eccentric,806
+TOI-4791 b,0.0,1472,Circular/Stable,1474
+CoRoT-18 b,0.08,1550,Circular/Stable,1552
+WASP-161 b,0.09342613987473893,1557,Circular/Stable,1559
+TOI-1669 c,0.0,1285,Circular/Stable,1287
+K2-98 b,0.119,1185,Circular/Stable,1187
+TOI-1294 b,0.0,1393,Circular/Stable,1395
+TOI-270 c,0.027,488,Circular/Stable,490
+GJ 3090 b,0.32,693,Highly Eccentric,695
+TOI-5786 b,0.09342613987473893,1040,Circular/Stable,1042
+HAT-P-59 b,0.03,1278,Circular/Stable,1280
+HD 110067 e,0.09342613987473893,533,Circular/Stable,535
+HATS-37 A b,0.0,1085,Circular/Stable,1087
+HATS-71 b,0.0,587,Circular/Stable,589
+WASP-139 b,0.0,910,Circular/Stable,912
+HATS-25 b,0.176,1277,Circular/Stable,1279
+TOI-2567 b,0.0,1352,Circular/Stable,1354
+LTT 3780 c,0.024,359,Circular/Stable,361
+TOI-2447 b,0.17,414,Circular/Stable,416
+HD 219134 b,0.0,1015,Circular/Stable,1017
+Kepler-4 b,0.0,1650,Circular/Stable,1652
+TOI-1246 d,0.0,588,Circular/Stable,590
+NGTS-15 b,0.0,1146,Circular/Stable,1148
+Kepler-20 f,0.094,681,Circular/Stable,683
+HIP 116454 b,0.215,753,Circular/Stable,755
+HATS-65 b,0.062,1634,Circular/Stable,1636
+WASP-103 b,0.09342613987473893,2508,Circular/Stable,2510
+TOI-2207 b,0.174,1259,Circular/Stable,1261
+HATS-10 b,0.501,1407,Highly Eccentric,1409
+TOI-2458 b,0.087,1509,Circular/Stable,1511
+HAT-P-4 b,0.0,1686,Circular/Stable,1688
+Kepler-78 b,0.0,2223,Circular/Stable,2225
+TOI-406.01,0.056,368,Circular/Stable,370
+TOI-2416 b,0.32,1080,Highly Eccentric,1082
+HIP 29442 c,0.09342613987473893,1123,Circular/Stable,1125
+WASP-5 b,0.038,1706,Circular/Stable,1708
+HD 5278 b,0.08,943,Circular/Stable,945
+NGTS-5 b,0.0,952,Circular/Stable,954
+WASP-20 b,0.0,1379,Circular/Stable,1381
+Qatar-4 b,0.0,1385,Circular/Stable,1387
+TOI-815 c,0.22,469,Circular/Stable,471
+TIC 4672985 b,0.018,517,Circular/Stable,519
+K2-417 b,0.09342613987473893,558,Circular/Stable,560
+TOI-815 b,0.2,686,Circular/Stable,688
+HATS-28 b,0.202,1253,Circular/Stable,1255
+HATS-38 b,0.0,1294,Circular/Stable,1296
+TOI-1468 c,0.09342613987473893,338,Circular/Stable,340
+HD 207496 b,0.231,743,Circular/Stable,745
+K2-295 b,0.0,852,Circular/Stable,854
+NGTS-16 b,0.0,1177,Circular/Stable,1179
+KELT-23 A b,0.0,1561,Circular/Stable,1563
+Kepler-51 d,0.008,381,Circular/Stable,383
+Kepler-68 c,0.099,1052,Circular/Stable,1054
+HATS-41 b,0.38,1710,Highly Eccentric,1712
+EPIC 249893012 b,0.06,1616,Circular/Stable,1618
+HATS-72 b,0.013,739,Circular/Stable,741
+HATS-77 b,0.045,828,Circular/Stable,830
+Kepler-8 b,0.09342613987473893,1680,Circular/Stable,1682
+HIP 9618 c,0.0,470,Circular/Stable,472
+HD 77946 b,0.211,1129,Circular/Stable,1131
+Kepler-77 b,0.0,1440,Circular/Stable,1442
+WASP-165 b,0.0,1624,Circular/Stable,1626
+WASP-118 b,0.0,1729,Circular/Stable,1731
+HATS-42 b,0.229,1856,Circular/Stable,1858
+TOI-1823 b,0.0,424,Circular/Stable,426
+TOI-5293 A b,0.38,675,Highly Eccentric,677
+HATS-75 b,0.064,772,Circular/Stable,774
+TOI-2000 b,0.0,1488,Circular/Stable,1490
+HAT-P-60 b,0.25,1772,Circular/Stable,1774
+TOI-558 b,0.298,1061,Circular/Stable,1063
+WASP-46 b,0.09342613987473893,1636,Circular/Stable,1638
+TOI-2076 d,0.0,458,Circular/Stable,460
+TOI-1173 b,0.023,868,Circular/Stable,870
+TOI-125 d,0.168,638,Circular/Stable,640
+K2-290 b,0.0,1230,Circular/Stable,1232
+WASP-156 b,0.0,934,Circular/Stable,936
+K2-36 b,0.093,1328,Circular/Stable,1330
+WASP-79 b,0.0,1716,Circular/Stable,1718
+HD 136352 b,0.0,905,Circular/Stable,907
+HAT-P-38 b,0.067,1082,Circular/Stable,1084
+Kepler-111 c,0.176,352,Circular/Stable,354
+TOI-3364 b,0.0,1264,Circular/Stable,1266
+HAT-P-58 b,0.073,1622,Circular/Stable,1624
+TOI-238 c,0.36,696,Highly Eccentric,698
+EPIC 249893012 d,0.15,752,Circular/Stable,754
+K2-280 b,0.35,787,Highly Eccentric,789
+TOI-733 b,0.046,1056,Circular/Stable,1058
+LTT 1445 A c,0.223,508,Circular/Stable,510
+HD 21520 b,0.0,637,Circular/Stable,639
+TOI-4994 b,0.319,718,Highly Eccentric,720
+K2-30 b,0.0,1092,Circular/Stable,1094
+Kepler-76 b,0.09342613987473893,2140,Circular/Stable,2142
+K2-36 c,0.089,854,Circular/Stable,856
+HATS-45 b,0.24,1518,Circular/Stable,1520
+TOI-2154 b,0.117,1580,Circular/Stable,1582
+TOI-6130 b,0.036,1750,Circular/Stable,1752
+TOI-1789 b,0.09342613987473893,1927,Circular/Stable,1929
+HIP 9618 b,0.0,641,Circular/Stable,643
+HIP 97166 b,0.29,702,Circular/Stable,704
+TOI-4914 b,0.408,894,Highly Eccentric,896
+WASP-177 b,0.09342613987473893,1142,Circular/Stable,1144
+K2-111 b,0.1,1309,Circular/Stable,1311
+K2-237 b,0.03,1759,Circular/Stable,1761
+HAT-P-66 b,0.09,1896,Circular/Stable,1898
+Kepler-428 b,0.22,1070,Circular/Stable,1072
+HD 86226 c,0.075,1311,Circular/Stable,1313
+HATS-27 b,0.581,1659,Highly Eccentric,1661
+TOI-1749 c,0.019,673,Circular/Stable,675
+TOI-1472 b,0.0,811,Circular/Stable,813
+HD 23472 b,0.072,543,Circular/Stable,545
+HD 97658 b,0.05,751,Circular/Stable,753
+HD 191939 b,0.031,880,Circular/Stable,882
+Kepler-323 b,0.095,1838,Circular/Stable,1840
+OGLE-TR-132 b,0.09342613987473893,2013,Circular/Stable,2015
+TOI-561 e,0.079,415,Circular/Stable,417
+K2-3 b,0.107,501,Circular/Stable,503
+GJ 9827 c,0.09342613987473893,716,Circular/Stable,718
+CoRoT-24 c,0.0,850,Circular/Stable,852
+TOI-1411 b,0.0,976,Circular/Stable,978
+Kepler-109 b,0.11,1276,Circular/Stable,1278
+TOI-431 b,0.0,1862,Circular/Stable,1864
+Kepler-138 c,0.017,410,Circular/Stable,412
+Kepler-19 b,0.41,851,Highly Eccentric,853
+TOI-1478 b,0.024,918,Circular/Stable,920
+HAT-P-9 b,0.084,1540,Circular/Stable,1542
+HD 3167 c,0.06,564,Circular/Stable,566
+TOI-969 b,0.09342613987473893,941,Circular/Stable,943
+NGTS-23 b,0.0,1327,Circular/Stable,1329
+TOI-1855 b,0.033,1701,Circular/Stable,1703
+HATS-24 b,0.0,2166,Circular/Stable,2168
+TOI-2180 b,0.3683,348,Highly Eccentric,350
+TOI-1842 b,0.276,1200,Circular/Stable,1202
+KOI-94 b,0.25,1486,Circular/Stable,1488
+TOI-1266 b,0.22,425,Circular/Stable,427
+NGTS-8 b,0.01,1345,Circular/Stable,1347
+TOI-1820 b,0.043,1375,Circular/Stable,1377
+OGLE-TR-56 b,0.09342613987473893,2212,Circular/Stable,2214
+TOI-125 b,0.194,1037,Circular/Stable,1039
+TOI-2025 b,0.394,1166,Highly Eccentric,1168
+WASP-90 b,0.0,1840,Circular/Stable,1842
+TOI-431 d,0.0,633,Circular/Stable,635
+TOI-1296 b,0.0,1415,Circular/Stable,1417
+HD 88986 b,0.24,460,Circular/Stable,462
+HD 136352 c,0.0,677,Circular/Stable,679
+CoRoT-6 b,0.1,1017,Circular/Stable,1019
+Kepler-74 b,0.0,1078,Circular/Stable,1080
+TOI-954 b,0.14,1526,Circular/Stable,1528
+K2-260 b,0.053,2090,Circular/Stable,2092
+CoRoT-9 b,0.133,420,Circular/Stable,422
+HD 219134 f,0.148,523,Circular/Stable,525
+TOI-3807 b,0.0,1646,Circular/Stable,1648
+TOI-1448 b,0.36,426,Highly Eccentric,428
+TOI-5398 b,0.13,947,Circular/Stable,949
+TOI-1794 b,0.0,993,Circular/Stable,995
+TOI-6038 A b,0.09342613987473893,1439,Circular/Stable,1441
+HD 93963 A b,0.0,1842,Circular/Stable,1844
+TOI-2120 b,0.32,384,Highly Eccentric,386
+TOI-1260 c,0.0,651,Circular/Stable,653
+TOI-4010 c,0.03,907,Circular/Stable,909
+HAT-P-12 b,0.0,963,Circular/Stable,965
+TOI-2145 b,0.21,1363,Circular/Stable,1365
+Wolf 503 b,0.409,789,Highly Eccentric,791
+TOI-3693 b,0.0,801,Circular/Stable,803
+TOI-1853 b,0.03,1479,Circular/Stable,1481
+K2-266 e,0.043,490,Circular/Stable,492
+TOI-2589 b,0.522,592,Highly Eccentric,594
+TOI-4515 b,0.461,705,Highly Eccentric,707
+TOI-1685 b,0.0,1062,Circular/Stable,1064
+HAT-P-61 b,0.113,1505,Circular/Stable,1507
+Kepler-51 c,0.014,439,Circular/Stable,441
+K2-29 b,0.066,1171,Circular/Stable,1173
+WASP-193 b,0.056,1254,Circular/Stable,1256
+HD 28109 d,0.0864,506,Circular/Stable,508
+TOI-1775 b,0.0,708,Circular/Stable,710
+GJ 9827 b,0.09342613987473893,1035,Circular/Stable,1037
+TOI-908 b,0.132,1317,Circular/Stable,1319
+Kepler-40 b,0.0,1620,Circular/Stable,1622
+TOI-2109 b,0.09342613987473893,3646,Circular/Stable,3648
+HATS-6 b,0.0,713,Circular/Stable,715
+TOI-5218 b,0.0,783,Circular/Stable,785
+HD 15337 b,0.09,1001,Circular/Stable,1003
+Kepler-62 d,0.09342613987473893,510,Circular/Stable,512
+TOI-837 b,0.09342613987473893,995,Circular/Stable,997
+L 168-9 b,0.0,998,Circular/Stable,1000
+HAT-P-25 b,0.023,1182,Circular/Stable,1184
+HATS-52 b,0.246,1834,Circular/Stable,1836
+Kepler-62 f,0.09342613987473893,208,Circular/Stable,210
+L 98-59 c,0.103,553,Circular/Stable,555
+HATS-3 b,0.0,1648,Circular/Stable,1650
+Kepler-87 b,0.036,478,Circular/Stable,480
+TOI-2338 b,0.676,799,Highly Eccentric,801
+HAT-P-28 b,0.051,1384,Circular/Stable,1386
+CoRoT-11 b,0.0,1657,Circular/Stable,1659
+TOI-2373 b,0.112,860,Circular/Stable,862
+TOI-257 b,0.0,1027,Circular/Stable,1029
+NGTS-24 b,0.0,1499,Circular/Stable,1501
+TOI-561 d,0.122,598,Circular/Stable,600
+TOI-1420 b,0.17,957,Circular/Stable,959
+HATS-32 b,0.471,1437,Highly Eccentric,1439
+Kepler-6 b,0.09342613987473893,1460,Circular/Stable,1462
+HD 20329 b,0.0,2141,Circular/Stable,2143
+TIC 46432937 b,0.009,872,Circular/Stable,874
+HATS-44 b,0.279,1161,Circular/Stable,1163
+NGTS-6 b,0.0,1284,Circular/Stable,1286
+TOI-4010 b,0.03,1441,Circular/Stable,1443
+K2-97 b,0.207,1566,Circular/Stable,1568
+TOI-1807 b,0.0,1694,Circular/Stable,1696
+K2-3 c,0.048,372,Circular/Stable,374
+K2-290 c,0.0,676,Circular/Stable,678
+WASP-169 b,0.0,1604,Circular/Stable,1606
+NGTS-21 b,0.0,1357,Circular/Stable,1359
+WASP-158 b,0.0,1590,Circular/Stable,1592
+Kepler-107 b,0.1,1592,Circular/Stable,1594
+TOI-3071 b,0.09,2155,Circular/Stable,2157
+WASP-18 b,0.0051,2429,Circular/Stable,2431
+Kepler-20 b,0.083,1187,Circular/Stable,1189
+K2-265 b,0.16,1366,Circular/Stable,1368
+TOI-286 b,0.0,979,Circular/Stable,981
+KPS-1 b,0.0,1459,Circular/Stable,1461
+WASP-93 b,0.0,1942,Circular/Stable,1944
+HAT-P-23 b,0.106,2056,Circular/Stable,2058
+WASP-130 b,0.0,833,Circular/Stable,835
+K2-38 c,0.086,949,Circular/Stable,951
+TOI-3976 A b,0.0,1295,Circular/Stable,1297
+K2-285 d,0.0,620,Circular/Stable,622
+HD 235088 b,0.0,754,Circular/Stable,756
+HATS-49 b,0.071,835,Circular/Stable,837
+Wolf 327 b,0.0,996,Circular/Stable,998
+TOI-677 b,0.435,1252,Highly Eccentric,1254
+KELT-24 b,0.0319,1391,Circular/Stable,1393
+K2-329 b,0.0697,650,Circular/Stable,652
+Kepler-10 c,0.13,578,Circular/Stable,580
+HATS-13 b,0.181,1244,Circular/Stable,1246
+TOI-1416 b,0.0,1517,Circular/Stable,1519
+TOI-169 b,0.0,1715,Circular/Stable,1717
+KOI-94 c,0.43,1012,Highly Eccentric,1014
+HATS-4 b,0.013,1315,Circular/Stable,1317
+Kepler-117 b,0.0493,984,Circular/Stable,986
+CoRoT-1 b,0.0,1898,Circular/Stable,1900
+TOI-270 d,0.032,387,Circular/Stable,389
+TOI-178 f,0.09342613987473893,521,Circular/Stable,523
+WASP-7 b,0.09342613987473893,1487,Circular/Stable,1489
+TOI-2421 b,0.0,1534,Circular/Stable,1536
+WASP-164 b,0.0,1610,Circular/Stable,1612
+TOI-530 b,0.0,565,Circular/Stable,567
+HAT-P-37 b,0.058,1271,Circular/Stable,1273
+K2-66 b,0.0,1372,Circular/Stable,1374
+K2-266 b,0.09342613987473893,1515,Circular/Stable,1517
+TOI-2010 b,0.212,400,Circular/Stable,402
+NGTS-1 b,0.016,790,Circular/Stable,792
+K2-419 A b,0.042,377,Circular/Stable,379
+HD 28109 c,0.1203,585,Circular/Stable,587
+WASP-132 c,0.0,1329,Circular/Stable,1331
+TOI-2152 A b,0.057,1802,Circular/Stable,1804
+HATS-35 b,0.306,2037,Highly Eccentric,2039
+Kepler-454 b,0.32,916,Highly Eccentric,918
+HATS-46 b,0.559,1054,Highly Eccentric,1056
+TOI-5398 c,0.14,1242,Circular/Stable,1244
+CoRoT-36 b,0.0,1567,Circular/Stable,1569
+HAT-P-53 b,0.134,1778,Circular/Stable,1780
+HATS-31 b,0.233,1823,Circular/Stable,1825
+HATS-66 b,0.064,1998,Circular/Stable,2000
+HD 63433 c,0.0,622,Circular/Stable,624
+Kepler-117 c,0.0323,704,Circular/Stable,706
+TIC 139270665 b,0.105,703,Circular/Stable,705
+HATS-61 b,0.092,1226,Circular/Stable,1228
+WASP-173 A b,0.0,1880,Circular/Stable,1882
+HD 2685 b,0.091,2061,Circular/Stable,2063
+TOI-532 b,0.0,867,Circular/Stable,869
+HAT-P-20 b,0.015,970,Circular/Stable,972
+HAT-P-36 b,0.09342613987473893,1781,Circular/Stable,1783
+TOI-260 b,0.0,493,Circular/Stable,495
+HD 73344 b,0.03,911,Circular/Stable,913
+Kepler-107 d,0.11,1173,Circular/Stable,1175
+CoRoT-26 b,0.0,1600,Circular/Stable,1602
+Kepler-1514 b,0.401,388,Highly Eccentric,390
+K2-140 b,0.0,962,Circular/Stable,964
+HATS-47 b,0.088,853,Circular/Stable,855
+TOI-2570 b,0.0,1431,Circular/Stable,1433
+K2-141 b,0.0,2103,Circular/Stable,2105
+TOI-1759 b,0.0,443,Circular/Stable,445
+Kepler-93 b,0.0,1133,Circular/Stable,1135
+TOI-1452 b,0.0,326,Circular/Stable,328
+TOI-4438 b,0.14,435,Circular/Stable,437
+NGTS-30 b,0.294,500,Circular/Stable,502
+TOI-3984 A b,0.23,563,Circular/Stable,565
+HD 106315 c,0.22,886,Circular/Stable,888
+TOI-1075 b,0.0,1323,Circular/Stable,1325
+WASP-136 b,0.09342613987473893,1742,Circular/Stable,1744
+Kepler-167 e,0.29,134,Circular/Stable,136
+TOI-1824 b,0.0,529,Circular/Stable,531
+K2-285 c,0.0,741,Circular/Stable,743
+HIP 29442 d,0.09342613987473893,920,Circular/Stable,922
+KELT-10 b,0.09342613987473893,1377,Circular/Stable,1379
+TOI-1246 c,0.0,862,Circular/Stable,864
+Kepler-412 b,0.09342613987473893,1850,Circular/Stable,1852
+HD 191939 d,0.031,540,Circular/Stable,542
+TOI-4860 b,0.008,694,Circular/Stable,696
+TOI-2364 b,0.0,1091,Circular/Stable,1093
+TOI-2981 b,0.035,1358,Circular/Stable,1360
+WASP-163 b,0.09342613987473893,1638,Circular/Stable,1640
+GJ 143 b,0.188,422,Circular/Stable,424
+TOI-2796 b,0.0,1205,Circular/Stable,1207
+TOI-411 b,0.09342613987473893,1241,Circular/Stable,1243
+Kepler-101 b,0.086,1513,Circular/Stable,1515
+HD 22946 d,0.09342613987473893,546,Circular/Stable,548
+TOI-4153 b,0.039,1669,Circular/Stable,1671
+K2-266 d,0.047,538,Circular/Stable,540
+K2-60 b,0.0,1400,Circular/Stable,1402
+TOI-172 b,0.3806,1198,Highly Eccentric,1200
+NGTS-18 b,0.0,1381,Circular/Stable,1383
+KOI-1257 b,0.772,511,Highly Eccentric,513
+K2-136 b,0.14,610,Circular/Stable,612
+HD 219134 c,0.062,782,Circular/Stable,784
+TOI-2019 b,0.0,917,Circular/Stable,919
+HATS-5 b,0.019,1025,Circular/Stable,1027

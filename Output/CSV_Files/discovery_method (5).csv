@@ -1,0 +1,642 @@
+Discovery_Method,Discovery_Facility,Host_Star,Discovery_Year,orb_id,disc_id
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-674,2021-01-01,637,1907
+Transit,Transiting Exoplanet Survey Satellite (TESS),HIP 94235,2022-01-01,1062,3182
+Transit,HATSouth,HATS-8,2015-01-01,1326,3974
+Transit,Next-Generation Transit Survey (NGTS),NGTS-9,2019-01-01,1450,4346
+Transit,Next-Generation Transit Survey (NGTS),NGTS-2,2018-01-01,1470,4406
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2803 A,2023-01-01,1895,5681
+Transit,Kepler,Kepler-22,2011-01-01,281,839
+Transit,K2,K2-416,2023-01-01,449,1343
+Transit,K2,K2-141,2018-01-01,697,2087
+Transit,K2,EPIC 220674823,2016-01-01,2302,6902
+Transit,Kepler,Kepler-1704,2013-01-01,256,764
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1231,2021-01-01,332,992
+Transit,Transiting Exoplanet Survey Satellite (TESS),HD 191939,2020-01-01,602,1802
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-4137,2022-01-01,1572,4712
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1295,2024-01-01,2362,7082
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2136,2022-01-01,397,1187
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1695,2022-01-01,700,2096
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-269,2021-01-01,533,1595
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-561,2020-01-01,802,2402
+Transit,Kepler,Kepler-426,2014-01-01,1302,3902
+Transit,SuperWASP,WASP-36,2011-01-01,1735,5201
+Transit,Qatar,Qatar-10,2019-01-01,1957,5867
+Transit,K2,K2-79,2016-01-01,1024,3068
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-480,2024-01-01,1201,3599
+Transit,Kepler,Kepler-107,2014-01-01,1380,4136
+Transit,HATNet,HAT-P-68,2020-01-01,1030,3086
+Transit,Qatar,Qatar-9,2019-01-01,1136,3404
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1107,2022-01-01,1730,5186
+Transit,Kepler,Kepler-41,2011-01-01,1792,5372
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-561,2020-01-01,2312,6932
+Transit,Qatar,Qatar-6,2017-01-01,1008,3020
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-500,2022-01-01,1619,4853
+Transit,K2,HD 80653,2020-01-01,2465,7391
+Transit,Transiting Exoplanet Survey Satellite (TESS),HD 6061,2023-01-01,1077,3227
+Transit,K2,K2-3,2015-01-01,307,917
+Transit,K2,K2-233,2018-01-01,1123,3365
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1221,2023-01-01,442,1322
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2088,2024-01-01,302,902
+Transit,Kepler,Kepler-103,2014-01-01,975,2921
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-5344,2023-01-01,691,2069
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-5205,2023-01-01,739,2213
+Transit,K2,K2-238,2018-01-01,1589,4763
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-6016,2024-01-01,1892,5672
+Transit,Kepler,Kepler-21,2012-01-01,2017,6047
+Transit,Multiple Observatories,HATS-18,2016-01-01,2071,6209
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-270,2019-01-01,583,1745
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1749,2021-01-01,833,2495
+Transit,Transiting Exoplanet Survey Satellite (TESS),HD 110113,2021-01-01,1373,4115
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1333,2021-01-01,1681,5039
+Transit,SuperWASP,WASP-153,2017-01-01,1702,5102
+Transit,Kepler,Kepler-1654,2018-01-01,208,620
+Transit,SuperWASP,WASP-181,2019-01-01,1188,3560
+Transit,Transiting Exoplanet Survey Satellite (TESS),NGTS-27,2024-01-01,1785,5351
+Transit,Kepler,Kepler-87,2013-01-01,405,1211
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-3757,2022-01-01,761,2279
+Transit,SuperWASP-South,WASP-144,2018-01-01,1262,3782
+Transit,WASP-South,WASP-171,2019-01-01,1644,4928
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-519,2021-01-01,689,2063
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-6383 A,2024-01-01,747,2237
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-5616,2024-01-01,941,2819
+Transit,HATSouth,HATS-76,2021-01-01,942,2822
+Transit,Next-Generation Transit Survey (NGTS),NGTS-25,2022-01-01,1103,3305
+Transit,HATNet,HAT-P-16,2010-01-01,1628,4880
+Transit,Transiting Exoplanet Survey Satellite (TESS),HD 213885,2019-01-01,2130,6386
+Transit,Transiting Exoplanet Survey Satellite (TESS),HD 23472,2019-01-01,469,1403
+Transit,Transiting Exoplanet Survey Satellite (TESS),LTT 9779,2020-01-01,1980,5936
+Transit,K2,K2-32,2016-01-01,552,1652
+Transit,K2,K2-182,2018-01-01,968,2900
+Transit,SuperWASP,WASP-19,2009-01-01,2115,6341
+Transit,Kepler,Kepler-62,2013-01-01,272,812
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-663,2024-01-01,676,2024
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2587 A,2023-01-01,1447,4337
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-4087,2023-01-01,1460,4376
+Transit,Multiple Observatories,HD 110067,2023-01-01,604,1808
+Transit,K2,K2-100,2016-01-01,1843,5525
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1899,2020-01-01,380,1136
+Transit,K2,EPIC 220674823,2016-01-01,807,2417
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-421,2020-01-01,924,2768
+Transit,Multiple Facilities,WASP-81,2017-01-01,1625,4871
+Transit,HATNet,HAT-P-45,2014-01-01,1654,4958
+Transit,K2,EPIC 246851721,2018-01-01,1403,4205
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-150,2019-01-01,1406,4214
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-157,2020-01-01,1590,4766
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-564,2020-01-01,1716,5144
+Transit,Cerro Tololo Inter-American Observatory,GJ 1132,2015-01-01,586,1754
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-836,2023-01-01,667,1997
+Transit,Transiting Exoplanet Survey Satellite (TESS),LP 714-47,2020-01-01,702,2102
+Transit,Transiting Exoplanet Survey Satellite (TESS),HD 332231,2020-01-01,800,2396
+Transit,SuperWASP,WASP-42,2012-01-01,1023,3065
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1751,2024-01-01,654,1958
+Transit,Transiting Exoplanet Survey Satellite (TESS),GJ 3473,2020-01-01,775,2321
+Transit,SuperWASP,WASP-123,2016-01-01,1522,4562
+Transit,Transiting Exoplanet Survey Satellite (TESS),LHS 1478,2021-01-01,597,1787
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-4145 A,2023-01-01,1076,3224
+Transit,K2,HD 106315,2017-01-01,1155,3461
+Transit,Kepler,Kepler-1876,2021-01-01,1301,3899
+Transit,CoRoT,CoRoT-25,2013-01-01,1332,3992
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2818,2023-01-01,1378,4130
+Transit,Kepler,Kepler-1661,2020-01-01,245,731
+Radial Velocity,Las Campanas Observatory,HD 95338,2020-01-01,387,1157
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-3629,2022-01-01,692,2072
+Transit,HATSouth,HATS-17,2016-01-01,816,2444
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2000,2023-01-01,1040,3116
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2529,2024-01-01,638,1910
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2128,2024-01-01,783,2345
+Transit,HATNet,HAT-P-54,2015-01-01,820,2456
+Radial Velocity,W. M. Keck Observatory,GJ 414 A,2021-01-01,127,377
+Transit,K2,K2-292,2019-01-01,797,2387
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1269,2024-01-01,1007,3017
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2524,2023-01-01,1102,3302
+Transit,HATSouth,HATS-55,2019-01-01,1369,4103
+Transit,HATSouth,HATS-57,2019-01-01,1415,4241
+Transit,CoRoT,CoRoT-12,2010-01-01,1444,4328
+Transit,HATNet,HAT-P-52,2015-01-01,1220,3656
+Transit,SuperWASP,WASP-65,2013-01-01,1482,4442
+Transit,SuperWASP,WASP-104,2014-01-01,1518,4550
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1470,2023-01-01,736,2204
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1064,2022-01-01,786,2354
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-5153,2022-01-01,908,2720
+Transit,HATSouth,HATS-1,2012-01-01,1361,4079
+Transit,Multiple Observatories,HD 110067,2023-01-01,701,2099
+Transit,WASP-South,WASP-166,2019-01-01,1272,3812
+Transit,Kepler,Kepler-7,2009-01-01,1632,4892
+Transit,Transiting Exoplanet Survey Satellite (TESS),HD 22946,2022-01-01,933,2795
+Transit,HATSouth,HATS-59,2018-01-01,1130,3386
+Transit,SuperWASP,WASP-57,2012-01-01,1340,4016
+Transit,HATSouth,HATS-53,2017-01-01,1314,3938
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-3912,2023-01-01,1514,4538
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2714,2024-01-01,1605,4811
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-5634 A,2024-01-01,839,2513
+Transit,HATSouth,HATS-69,2018-01-01,1298,3890
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-4600,2023-01-01,193,575
+Transit,SuperWASP-South,WASP-160 B,2018-01-01,1121,3359
+Transit,Transiting Exoplanet Survey Satellite (TESS),GJ 3929,2022-01-01,570,1706
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-3235,2023-01-01,606,1814
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-3819,2023-01-01,1635,4901
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1246,2022-01-01,466,1394
+Transit,Qatar,Qatar-2,2011-01-01,1346,4034
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-4127,2023-01-01,607,1817
+Transit,Transiting Exoplanet Survey Satellite (TESS),LTT 3780,2020-01-01,905,2711
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2842,2023-01-01,1473,4415
+Transit,Next-Generation Transit Survey (NGTS),NGTS-13,2021-01-01,1607,4817
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-3261,2024-01-01,1724,5168
+Transit,K2,HD 137496,2021-01-01,2132,6392
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-762 A,2024-01-01,557,1667
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-905,2020-01-01,1194,3578
+Transit,Kepler,Kepler-44,2011-01-01,1546,4634
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2095,2023-01-01,299,893
+Transit,Kepler,Kepler-102,2014-01-01,497,1487
+Transit,Transiting Exoplanet Survey Satellite (TESS),HD 73583,2022-01-01,716,2144
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-181,2023-01-01,897,2687
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-559,2021-01-01,1182,3542
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1937 A,2023-01-01,2099,6293
+Radial Velocity,La Silla Observatory,HD 136352,2019-01-01,433,1295
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-776,2020-01-01,522,1562
+Transit,HATNet,HAT-P-42,2012-01-01,1430,4286
+Transit,SuperWASP,WASP-64,2012-01-01,1691,5069
+Transit,Kepler,Kepler-103,2014-01-01,436,1304
+Transit,Transiting Exoplanet Survey Satellite (TESS),HD 15337,2019-01-01,644,1928
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2384,2024-01-01,892,2672
+Transit,HATSouth,HATS-48 A,2020-01-01,957,2867
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2368,2024-01-01,1002,3002
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-132,2020-01-01,1397,4187
+Transit,SuperWASP-North,WASP-114,2016-01-01,2045,6131
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1266,2020-01-01,356,1064
+Transit,CoRoT,CoRoT-27,2014-01-01,1502,4502
+Transit,WASP-South,WASP-175,2019-01-01,1573,4715
+Transit,Kepler,Kepler-433,2015-01-01,1778,5330
+Transit,HATSouth,HATS-29,2016-01-01,1214,3638
+Transit,Kepler,Kepler-68,2013-01-01,1277,3827
+Transit,Next-Generation Transit Survey (NGTS),NGTS-17,2021-01-01,1459,4373
+Transit,Transiting Exoplanet Survey Satellite (TESS),TIC 393818343,2024-01-01,808,2420
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-178,2021-01-01,875,2621
+Transit,K2,K2-25,2015-01-01,496,1484
+Transit,K2,K2-199,2018-01-01,915,2741
+Transit,HATSouth,HATS-40,2018-01-01,2103,6305
+Transit,Multiple Observatories,WASP-167,2017-01-01,2331,6989
+Transit,Kepler,KOI-3503,2021-01-01,787,2357
+Transit,HATSouth,HATS-39,2018-01-01,1647,4937
+Transit,Qatar,Qatar-3,2017-01-01,1683,5045
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1260,2021-01-01,873,2615
+Transit,HATNet,HAT-P-19,2010-01-01,983,2945
+Transit,K2,K2-285,2018-01-01,1091,3269
+Transit,Next-Generation Transit Survey (NGTS),NGTS-26,2024-01-01,1333,3995
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1601,2021-01-01,1496,4484
+Transit,HATNet,HAT-P-65,2016-01-01,1820,5456
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-4201,2023-01-01,727,2177
+Transit,K2,K2-27,2016-01-01,904,2708
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-544,2022-01-01,1001,2999
+Transit,HATSouth,HATS-30,2016-01-01,1416,4244
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2015,2023-01-01,514,1538
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2379,2024-01-01,626,1874
+Transit,Kepler,Kepler-80,2012-01-01,1104,3308
+Transit,SuperWASP-South,WASP-172,2018-01-01,1742,5222
+Transit,CoRoT,CoRoT-19,2011-01-01,2002,6002
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-3023,2023-01-01,1598,4790
+Transit,Kepler,PH1,2012-01-01,483,1445
+Transit,SuperWASP-South,WASP-170,2018-01-01,1424,4268
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2583 A,2023-01-01,1458,4370
+Transit,SuperWASP,WASP-183,2019-01-01,1113,3335
+Transit,Qatar,Qatar-1,2010-01-01,1420,4256
+Transit,Transiting Exoplanet Survey Satellite (TESS),HD 63935,2021-01-01,827,2477
+Transit,CoRoT,CoRoT-22,2014-01-01,887,2657
+Transit,Haleakala Observatory,Wendelstein-2,2020-01-01,2472,7412
+Transit,SuperWASP,WASP-59,2012-01-01,672,2012
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2236,2022-01-01,1690,5066
+Transit,Kepler,Kepler-37,2013-01-01,617,1847
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-286,2024-01-01,477,1427
+Transit,SuperWASP-South,WASP-140,2016-01-01,1322,3962
+Transit,HATSouth,HATS-63,2018-01-01,1400,4196
+Transit,HATNet,HAT-P-1,2006-01-01,1324,3968
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-669,2023-01-01,1127,3377
+Transit,HATSouth,HATS-68,2018-01-01,1743,5225
+Transit,K2,EPIC 201595106,2021-01-01,2040,6116
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-3714,2022-01-01,752,2252
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2158,2022-01-01,1190,3566
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2285,2021-01-01,286,854
+Transit,Kepler,Kepler-538,2016-01-01,419,1253
+Transit,Kepler,Kepler-102,2013-01-01,592,1772
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1249,2024-01-01,729,2183
+Transit,Kepler,Kepler-109,2014-01-01,861,2579
+Transit,HATSouth,HATS-43,2018-01-01,1005,3011
+Transit,SuperWASP-South,WASP-168,2018-01-01,1342,4022
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2107,2024-01-01,1399,4193
+Transit,HATNet,HAT-P-39,2012-01-01,1754,5258
+Transit,Transiting Exoplanet Survey Satellite (TESS),HD 260655,2022-01-01,559,1673
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1062,2021-01-01,1079,3233
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2498,2023-01-01,1445,4331
+Transit,Kepler,PH2,2013-01-01,297,887
+Transit,Transiting Exoplanet Survey Satellite (TESS),HD 28109,2022-01-01,883,2645
+Transit,K2,K2-232,2018-01-01,1032,3092
+Transit,Transiting Exoplanet Survey Satellite (TESS),TIC 237913194,2020-01-01,976,2924
+Transit,Next-Generation Transit Survey (NGTS),NGTS-10,2020-01-01,1334,3998
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-6651,2024-01-01,1495,4481
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2196,2022-01-01,1862,5582
+Transit,Kepler,Kepler-553,2016-01-01,253,755
+Transit,HATNet,HAT-P-63,2021-01-01,1239,3713
+Transit,K2,HD 3167,2016-01-01,1776,5324
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2134,2023-01-01,308,920
+Transit,Kepler,Kepler-20,2011-01-01,432,1292
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2076,2021-01-01,690,2066
+Transit,Multiple Facilities,WASP-53,2017-01-01,1055,3161
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1776,2024-01-01,1271,3809
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-3894,2024-01-01,1533,4595
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2580,2024-01-01,2412,7232
+Transit,Kepler,Kepler-409,2014-01-01,440,1316
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-663,2024-01-01,484,1448
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-3785,2023-01-01,584,1748
+Transit,HATNet,HAT-P-11,2008-01-01,849,2543
+Transit,K2,K2-32,2019-01-01,1068,3200
+Transit,HATSouth,HATS-7,2015-01-01,1086,3254
+Transit,Transiting Exoplanet Survey Satellite (TESS),HD 1397,2018-01-01,1230,3686
+Transit,Kepler,Kepler-10,2011-01-01,2190,6566
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-5678,2023-01-01,515,1541
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1728,2020-01-01,769,2303
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1052,2023-01-01,1137,3407
+Transit,HATSouth,HATS-51,2017-01-01,1555,4661
+Transit,CoRoT,CoRoT-14,2010-01-01,1954,5858
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1710,2022-01-01,605,1811
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-622,2023-01-01,1390,4166
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-4406,2023-01-01,906,2714
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1268,2022-01-01,921,2759
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2641,2023-01-01,1389,4163
+Transit,HATSouth,HATS-58 A,2019-01-01,1723,5165
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2134,2023-01-01,668,2000
+Transit,K2,K2-38,2016-01-01,1312,3932
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-332,2023-01-01,1873,5615
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2141,2023-01-01,724,2168
+Transit,Transiting Exoplanet Survey Satellite (TESS),HD 202772 A,2019-01-01,2134,6398
+Transit,KELT,KELT-16,2017-01-01,2455,7361
+Transit,Kepler,Kepler-138,2014-01-01,347,1037
+Transit,SuperWASP-South,WASP-132,2016-01-01,684,2048
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1272,2022-01-01,977,2927
+Transit,XO,XO-7,2019-01-01,1745,5231
+Transit,K2,K2-415,2023-01-01,414,1238
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1670,2022-01-01,686,2054
+Transit,K2,K2-261,2018-01-01,1038,3110
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-481,2020-01-01,1372,4112
+Transit,HATSouth,HATS-54,2019-01-01,1431,4289
+Transit,SuperWASP-North,WASP-113,2016-01-01,1498,4490
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1836,2024-01-01,2010,6026
+Transit,Next-Generation Transit Survey (NGTS),NGTS-14 A,2021-01-01,1145,3431
+Transit,K2,WASP-85 A,2016-01-01,1454,4358
+Transit,Transiting Exoplanet Survey Satellite (TESS),HD 25463,2023-01-01,1588,4760
+Transit,KELT-North,KELT-18,2017-01-01,2087,6257
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1451,2024-01-01,725,2171
+Transit,WASP-South,WASP-185,2019-01-01,1162,3482
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-858 B,2023-01-01,1531,4589
+Transit,Kepler,Kepler-91,2013-01-01,2042,6122
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-3884,2022-01-01,443,1325
+Transit,SuperWASP-South,WASP-105,2017-01-01,902,2702
+Transit,K2,K2-216,2018-01-01,1105,3311
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-329,2024-01-01,1215,3641
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1470,2023-01-01,375,1121
+Transit,Transiting Exoplanet Survey Satellite (TESS),HD 73583,2022-01-01,500,1496
+Transit,HATSouth,HATS-60,2018-01-01,1530,4586
+Transit,Kepler,Kepler-849,2016-01-01,365,1091
+Transit,Transiting Exoplanet Survey Satellite (TESS),L 98-59,2019-01-01,418,1250
+Transit,Multiple Observatories,HD 110067,2023-01-01,491,1469
+Transit,Kepler,Kepler-968,2021-01-01,615,1841
+Transit,Transiting Exoplanet Survey Satellite (TESS),HD 260655,2022-01-01,711,2129
+Transit,Next-Generation Transit Survey (NGTS),NGTS-12,2020-01-01,1259,3773
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1439,2024-01-01,750,2246
+Transit,K2,K2-12,2015-01-01,1028,3080
+Transit,HATNet,HAT-P-44,2014-01-01,1110,3326
+Transit,Haleakala Observatory,Wendelstein-1,2020-01-01,2200,6596
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1273,2024-01-01,1213,3635
+Transit,K2,EPIC 249893012,2020-01-01,992,2972
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2095,2023-01-01,349,1043
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-5688 A,2024-01-01,744,2228
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-3568,2024-01-01,901,2699
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1288,2022-01-01,1205,3611
+Transit,CoRoT,CoRoT-5,2009-01-01,1440,4316
+Radial Velocity,W. M. Keck Observatory,GJ 414 A,2021-01-01,311,929
+Transit,HATSouth,HATS-22,2017-01-01,860,2576
+Transit,SuperWASP,WASP-89,2015-01-01,1122,3362
+Transit,HATNet,HAT-P-51,2015-01-01,1170,3506
+Transit,SuperWASP,WASP-44,2011-01-01,1339,4013
+Transit,CoRoT,CoRoT-23,2011-01-01,1662,4982
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1260,2022-01-01,501,1499
+Radial Velocity,La Silla Observatory,GJ 3470,2012-01-01,596,1784
+Transit,Kepler,Kepler-1655,2018-01-01,940,2816
+Transit,Transiting Exoplanet Survey Satellite (TESS),Gliese 12,2024-01-01,317,947
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1064,2022-01-01,636,1904
+Transit,Transiting Exoplanet Survey Satellite (TESS),GJ 143,2019-01-01,703,2105
+Transit,K2,K2-287,2018-01-01,806,2414
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-4791,2023-01-01,1474,4418
+Transit,CoRoT,CoRoT-18,2011-01-01,1552,4652
+Transit,SuperWASP-South,WASP-161,2018-01-01,1559,4673
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1669,2024-01-01,1287,3857
+Transit,K2,K2-98,2016-01-01,1187,3557
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1294,2024-01-01,1395,4181
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-270,2019-01-01,490,1466
+Transit,Transiting Exoplanet Survey Satellite (TESS),GJ 3090,2022-01-01,695,2081
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-5786,2025-01-01,1042,3122
+Transit,HATNet,HAT-P-59,2021-01-01,1280,3836
+Transit,Multiple Observatories,HD 110067,2023-01-01,535,1601
+Transit,HATSouth,HATS-37 A,2020-01-01,1087,3257
+Transit,HATSouth,HATS-71,2020-01-01,589,1763
+Transit,SuperWASP-South,WASP-139,2016-01-01,912,2732
+Transit,HATSouth,HATS-25,2016-01-01,1279,3833
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2567,2022-01-01,1354,4058
+Transit,Transiting Exoplanet Survey Satellite (TESS),LTT 3780,2020-01-01,361,1079
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2447,2024-01-01,416,1244
+Radial Velocity,Roque de los Muchachos Observatory,HD 219134,2015-01-01,1017,3047
+Transit,Kepler,Kepler-4,2009-01-01,1652,4952
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1246,2022-01-01,590,1766
+Transit,Next-Generation Transit Survey (NGTS),NGTS-15,2021-01-01,1148,3440
+Transit,Kepler,Kepler-20,2011-01-01,683,2045
+Transit,K2,HIP 116454,2014-01-01,755,2261
+Transit,HATSouth,HATS-65,2018-01-01,1636,4904
+Transit,SuperWASP,WASP-103,2014-01-01,2510,7526
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2207,2022-01-01,1261,3779
+Transit,HATSouth,HATS-10,2015-01-01,1409,4223
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2458,2024-01-01,1511,4529
+Transit,HATNet,HAT-P-4,2007-01-01,1688,5060
+Transit,Kepler,Kepler-78,2013-01-01,2225,6671
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-406,2024-01-01,370,1106
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2416,2023-01-01,1082,3242
+Radial Velocity,Paranal Observatory,HD 42813,2023-01-01,1125,3371
+Transit,SuperWASP,WASP-5,2008-01-01,1708,5120
+Transit,Transiting Exoplanet Survey Satellite (TESS),HD 5278,2021-01-01,945,2831
+Transit,Next-Generation Transit Survey (NGTS),NGTS-5,2019-01-01,954,2858
+Transit,SuperWASP,WASP-20,2015-01-01,1381,4139
+Transit,Qatar,Qatar-4,2017-01-01,1387,4157
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-815,2024-01-01,471,1409
+Transit,Transiting Exoplanet Survey Satellite (TESS),TIC 4672985,2024-01-01,519,1553
+Transit,K2,K2-417,2023-01-01,560,1676
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-815,2024-01-01,688,2060
+Transit,HATSouth,HATS-28,2016-01-01,1255,3761
+Transit,HATSouth,HATS-38,2020-01-01,1296,3884
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1468,2022-01-01,340,1016
+Transit,Transiting Exoplanet Survey Satellite (TESS),HD 207496,2023-01-01,745,2231
+Transit,K2,K2-295,2018-01-01,854,2558
+Transit,Next-Generation Transit Survey (NGTS),NGTS-16,2021-01-01,1179,3533
+Transit,KELT-North,KELT-23 A,2019-01-01,1563,4685
+Transit,Kepler,Kepler-51,2014-01-01,383,1145
+Transit,Kepler,Kepler-68,2013-01-01,1054,3158
+Transit,HATSouth,HATS-41,2018-01-01,1712,5132
+Transit,K2,EPIC 249893012,2020-01-01,1618,4850
+Transit,HATSouth,HATS-72,2020-01-01,741,2219
+Transit,HATSouth,HATS-77,2021-01-01,830,2486
+Transit,Kepler,Kepler-8,2010-01-01,1682,5042
+Transit,Transiting Exoplanet Survey Satellite (TESS),HIP 9618,2023-01-01,472,1412
+Transit,Transiting Exoplanet Survey Satellite (TESS),HD 77946,2024-01-01,1131,3389
+Transit,Kepler,Kepler-77,2013-01-01,1442,4322
+Transit,SuperWASP-South,WASP-165,2018-01-01,1626,4874
+Transit,SuperWASP,WASP-118,2016-01-01,1731,5189
+Transit,HATSouth,HATS-42,2018-01-01,1858,5570
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1823,2024-01-01,426,1274
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-5293 A,2023-01-01,677,2027
+Transit,HATSouth,HATS-75,2021-01-01,774,2318
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2000,2023-01-01,1490,4466
+Transit,HATNet,HAT-P-60,2021-01-01,1774,5318
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-558,2021-01-01,1063,3185
+Transit,SuperWASP,WASP-46,2011-01-01,1638,4910
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2076,2021-01-01,460,1376
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1173,2024-01-01,870,2606
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-125,2020-01-01,640,1916
+Transit,K2,K2-290,2019-01-01,1232,3692
+Transit,SuperWASP,WASP-156,2017-01-01,936,2804
+Transit,K2,K2-36,2016-01-01,1330,3986
+Transit,SuperWASP,WASP-79,2012-01-01,1718,5150
+Radial Velocity,La Silla Observatory,HD 136352,2019-01-01,907,2717
+Transit,HATNet,HAT-P-38,2012-01-01,1084,3248
+Transit,Kepler,Kepler-111,2014-01-01,354,1058
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-3364,2023-01-01,1266,3794
+Transit,HATNet,HAT-P-58,2021-01-01,1624,4868
+Radial Velocity,Multiple Observatories,TOI-238,2024-01-01,698,2090
+Transit,K2,EPIC 249893012,2020-01-01,754,2258
+Transit,K2,K2-280,2018-01-01,789,2363
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-733,2023-01-01,1058,3170
+Transit,Transiting Exoplanet Survey Satellite (TESS),LTT 1445 A,2022-01-01,510,1526
+Transit,Transiting Exoplanet Survey Satellite (TESS),HD 21520,2024-01-01,639,1913
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-4994,2024-01-01,720,2156
+Transit,K2,K2-30,2016-01-01,1094,3278
+Orbital Brightness Modulation,Kepler,Kepler-76,2013-01-01,2142,6422
+Transit,K2,K2-36,2016-01-01,856,2564
+Transit,HATSouth,HATS-45,2018-01-01,1520,4556
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2154,2023-01-01,1582,4742
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-6130,2024-01-01,1752,5252
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1789,2021-01-01,1929,5783
+Transit,Transiting Exoplanet Survey Satellite (TESS),HIP 9618,2023-01-01,643,1925
+Transit,Transiting Exoplanet Survey Satellite (TESS),HIP 97166,2021-01-01,704,2108
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-4914,2024-01-01,896,2684
+Transit,SuperWASP,WASP-177,2019-01-01,1144,3428
+Transit,K2,K2-111,2017-01-01,1311,3929
+Transit,K2,K2-237,2018-01-01,1761,5279
+Transit,HATNet,HAT-P-66,2016-01-01,1898,5690
+Transit,Kepler,Kepler-428,2014-01-01,1072,3212
+Transit,Transiting Exoplanet Survey Satellite (TESS),HD 86226,2020-01-01,1313,3935
+Transit,HATSouth,HATS-27,2016-01-01,1661,4979
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1749,2021-01-01,675,2021
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1472,2024-01-01,813,2435
+Transit,Transiting Exoplanet Survey Satellite (TESS),HD 23472,2019-01-01,545,1631
+Radial Velocity,W. M. Keck Observatory,HD 97658,2010-01-01,753,2255
+Transit,Transiting Exoplanet Survey Satellite (TESS),HD 191939,2020-01-01,882,2642
+Transit,Kepler,Kepler-323,2014-01-01,1840,5516
+Transit,OGLE,OGLE-TR-132,2004-01-01,2015,6041
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-561,2020-01-01,417,1247
+Transit,K2,K2-3,2015-01-01,503,1505
+Transit,K2,GJ 9827,2017-01-01,718,2150
+Transit,CoRoT,CoRoT-24,2014-01-01,852,2552
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1411,2022-01-01,978,2930
+Transit,Kepler,Kepler-109,2014-01-01,1278,3830
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-431,2021-01-01,1864,5588
+Transit,Kepler,Kepler-138,2014-01-01,412,1232
+Transit,Kepler,Kepler-19,2011-01-01,853,2555
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1478,2021-01-01,920,2756
+Transit,HATNet,HAT-P-9,2008-01-01,1542,4622
+Transit,K2,HD 3167,2016-01-01,566,1694
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-969,2022-01-01,943,2825
+Transit,Next-Generation Transit Survey (NGTS),NGTS-23,2022-01-01,1329,3983
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1855,2024-01-01,1703,5105
+Transit,HATSouth,HATS-24,2017-01-01,2168,6500
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2180,2022-01-01,350,1046
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1842,2021-01-01,1202,3602
+Transit,Kepler,KOI-94,2013-01-01,1488,4460
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1266,2020-01-01,427,1277
+Transit,Next-Generation Transit Survey (NGTS),NGTS-8,2019-01-01,1347,4037
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1820,2022-01-01,1377,4127
+Transit,OGLE,OGLE-TR-56,2002-01-01,2214,6638
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-125,2019-01-01,1039,3113
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2025,2022-01-01,1168,3500
+Transit,SuperWASP,WASP-90,2016-01-01,1842,5522
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-431,2021-01-01,635,1901
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1296,2021-01-01,1417,4247
+Radial Velocity,Haute-Provence Observatory,HD 88986,2023-01-01,462,1382
+Radial Velocity,La Silla Observatory,HD 136352,2019-01-01,679,2033
+Transit,CoRoT,CoRoT-6,2009-01-01,1019,3053
+Transit,Kepler,Kepler-74,2013-01-01,1080,3236
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-954,2020-01-01,1528,4580
+Transit,K2,K2-260,2018-01-01,2092,6272
+Transit,CoRoT,CoRoT-9,2009-01-01,422,1262
+Radial Velocity,Multiple Observatories,HD 219134,2015-01-01,525,1571
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-3807,2023-01-01,1648,4940
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1448,2024-01-01,428,1280
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-5398,2022-01-01,949,2843
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1794,2024-01-01,995,2981
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-6038 A,2025-01-01,1441,4319
+Transit,Transiting Exoplanet Survey Satellite (TESS),HD 93963 A,2022-01-01,1844,5528
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2120,2024-01-01,386,1154
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1260,2021-01-01,653,1955
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-4010,2023-01-01,909,2723
+Transit,HATNet,HAT-P-12,2009-01-01,965,2891
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2145,2023-01-01,1365,4091
+Transit,K2,Wolf 503,2018-01-01,791,2369
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-3693,2022-01-01,803,2405
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1853,2023-01-01,1481,4439
+Transit,K2,K2-266,2018-01-01,492,1472
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2589,2023-01-01,594,1778
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-4515,2024-01-01,707,2117
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1685,2021-01-01,1064,3188
+Transit,HATNet,HAT-P-61,2021-01-01,1507,4517
+Transit,Kepler,Kepler-51,2012-01-01,441,1319
+Transit,K2,K2-29,2016-01-01,1173,3515
+Transit,WASP-South,WASP-193,2023-01-01,1256,3764
+Transit,Transiting Exoplanet Survey Satellite (TESS),HD 28109,2022-01-01,508,1520
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1775,2024-01-01,710,2126
+Transit,K2,GJ 9827,2017-01-01,1037,3107
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-908,2023-01-01,1319,3953
+Transit,Kepler,Kepler-40,2010-01-01,1622,4862
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2109,2021-01-01,3648,10940
+Transit,HATSouth,HATS-6,2015-01-01,715,2141
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-5218,2024-01-01,785,2351
+Transit,Transiting Exoplanet Survey Satellite (TESS),HD 15337,2019-01-01,1003,3005
+Transit,Kepler,Kepler-62,2013-01-01,512,1532
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-837,2020-01-01,997,2987
+Transit,Transiting Exoplanet Survey Satellite (TESS),L 168-9,2020-01-01,1000,2996
+Transit,HATNet,HAT-P-25,2010-01-01,1184,3548
+Transit,HATSouth,HATS-52,2017-01-01,1836,5504
+Transit,Kepler,Kepler-62,2013-01-01,210,626
+Transit,Transiting Exoplanet Survey Satellite (TESS),L 98-59,2019-01-01,555,1661
+Transit,HATSouth,HATS-3,2013-01-01,1650,4946
+Transit,Kepler,Kepler-87,2013-01-01,480,1436
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2338,2023-01-01,801,2399
+Transit,HATNet,HAT-P-28,2011-01-01,1386,4154
+Transit,CoRoT,CoRoT-11,2010-01-01,1659,4973
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2373,2023-01-01,862,2582
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-257,2021-01-01,1029,3083
+Transit,Next-Generation Transit Survey (NGTS),NGTS-24,2022-01-01,1501,4499
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-561,2020-01-01,600,1796
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1420,2023-01-01,959,2873
+Transit,HATSouth,HATS-32,2016-01-01,1439,4313
+Transit,Kepler,Kepler-6,2009-01-01,1462,4382
+Transit,Transiting Exoplanet Survey Satellite (TESS),HD 20329,2022-01-01,2143,6425
+Transit,Transiting Exoplanet Survey Satellite (TESS),TIC 46432937,2024-01-01,874,2618
+Transit,HATSouth,HATS-44,2018-01-01,1163,3485
+Transit,Next-Generation Transit Survey (NGTS),NGTS-6,2019-01-01,1286,3854
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-4010,2023-01-01,1443,4325
+Transit,K2,K2-97,2016-01-01,1568,4700
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1807,2021-01-01,1696,5084
+Transit,K2,K2-3,2015-01-01,374,1118
+Transit,K2,K2-290,2019-01-01,678,2030
+Transit,WASP-South,WASP-169,2019-01-01,1606,4814
+Transit,Next-Generation Transit Survey (NGTS),NGTS-21,2022-01-01,1359,4073
+Transit,SuperWASP-South,WASP-158,2018-01-01,1592,4772
+Transit,Kepler,Kepler-107,2014-01-01,1594,4778
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-3071,2024-01-01,2157,6467
+Transit,SuperWASP,WASP-18,2009-01-01,2431,7289
+Transit,Kepler,Kepler-20,2011-01-01,1189,3563
+Transit,K2,K2-265,2018-01-01,1368,4100
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-286,2024-01-01,981,2939
+Transit,Acton Sky Portal Observatory,KPS-1,2018-01-01,1461,4379
+Transit,SuperWASP,WASP-93,2016-01-01,1944,5828
+Transit,HATNet,HAT-P-23,2010-01-01,2058,6170
+Transit,SuperWASP-South,WASP-130,2016-01-01,835,2501
+Transit,K2,K2-38,2016-01-01,951,2849
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-3976 A,2023-01-01,1297,3887
+Transit,K2,K2-285,2018-01-01,622,1862
+Transit,Transiting Exoplanet Survey Satellite (TESS),HD 235088,2023-01-01,756,2264
+Transit,HATSouth,HATS-49,2020-01-01,837,2507
+Transit,Transiting Exoplanet Survey Satellite (TESS),Wolf 327,2024-01-01,998,2990
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-677,2020-01-01,1254,3758
+Transit,KELT-North,KELT-24,2019-01-01,1393,4175
+Transit,K2,K2-329,2020-01-01,652,1952
+Transit,Kepler,Kepler-10,2011-01-01,580,1736
+Transit,HATSouth,HATS-13,2015-01-01,1246,3734
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1416,2023-01-01,1519,4553
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-169,2020-01-01,1717,5147
+Transit,Kepler,KOI-94,2013-01-01,1014,3038
+Transit,HATSouth,HATS-4,2014-01-01,1317,3947
+Transit,Kepler,Kepler-117,2014-01-01,986,2954
+Transit,CoRoT,CoRoT-1,2008-01-01,1900,5696
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-270,2019-01-01,389,1163
+Transit,Multiple Observatories,TOI-178,2021-01-01,523,1565
+Transit,SuperWASP,WASP-7,2008-01-01,1489,4463
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2421,2022-01-01,1536,4604
+Transit,SuperWASP-South,WASP-164,2018-01-01,1612,4832
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-530,2021-01-01,567,1697
+Transit,HATNet,HAT-P-37,2011-01-01,1273,3815
+Transit,K2,K2-66,2016-01-01,1374,4118
+Transit,K2,K2-266,2018-01-01,1517,4547
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2010,2023-01-01,402,1202
+Transit,Next-Generation Transit Survey (NGTS),NGTS-1,2017-01-01,792,2372
+Transit,K2,K2-419 A,2024-01-01,379,1133
+Transit,Transiting Exoplanet Survey Satellite (TESS),HD 28109,2022-01-01,587,1757
+Transit,Transiting Exoplanet Survey Satellite (TESS),WASP-132,2022-01-01,1331,3989
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2152,2023-01-01,1804,5408
+Transit,HATSouth,HATS-35,2016-01-01,2039,6113
+Transit,Kepler,Kepler-454,2015-01-01,918,2750
+Transit,HATSouth,HATS-46,2018-01-01,1056,3164
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-5398,2023-01-01,1244,3728
+Transit,CoRoT,CoRoT-36,2022-01-01,1569,4703
+Transit,HATNet,HAT-P-53,2015-01-01,1780,5336
+Transit,HATSouth,HATS-31,2016-01-01,1825,5471
+Transit,HATSouth,HATS-66,2018-01-01,2000,5996
+Transit,Transiting Exoplanet Survey Satellite (TESS),HD 63433,2020-01-01,624,1868
+Transit,Kepler,Kepler-117,2014-01-01,706,2114
+Transit,Transiting Exoplanet Survey Satellite (TESS),TIC 139270665,2024-01-01,705,2111
+Transit,HATSouth,HATS-61,2018-01-01,1228,3680
+Transit,SuperWASP-South,WASP-173 A,2018-01-01,1882,5642
+Transit,Transiting Exoplanet Survey Satellite (TESS),HD 2685,2019-01-01,2063,6185
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-532,2021-01-01,869,2603
+Transit,HATNet,HAT-P-20,2010-01-01,972,2912
+Transit,HATNet,HAT-P-36,2011-01-01,1783,5345
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-260,2024-01-01,495,1481
+Transit,K2,HD 73344,2024-01-01,913,2735
+Transit,Kepler,Kepler-107,2014-01-01,1175,3521
+Transit,CoRoT,CoRoT-26,2013-01-01,1602,4802
+Transit,Kepler,Kepler-1514,2016-01-01,390,1166
+Transit,K2,K2-140,2017-01-01,964,2888
+Transit,HATSouth,HATS-47,2020-01-01,855,2561
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2570,2022-01-01,1433,4295
+Transit,K2,K2-141,2018-01-01,2105,6311
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1759,2022-01-01,445,1331
+Transit,Kepler,Kepler-93,2014-01-01,1135,3401
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1452,2022-01-01,328,980
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-4438,2024-01-01,437,1307
+Transit,Transiting Exoplanet Survey Satellite (TESS),NGTS-30,2024-01-01,502,1502
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-3984 A,2023-01-01,565,1691
+Transit,K2,HD 106315,2017-01-01,888,2660
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1075,2022-01-01,1325,3971
+Transit,SuperWASP,WASP-136,2016-01-01,1744,5228
+Transit,Kepler,Kepler-167,2016-01-01,136,404
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1824,2024-01-01,531,1589
+Transit,K2,K2-285,2018-01-01,743,2225
+Radial Velocity,Paranal Observatory,HD 42813,2023-01-01,922,2762
+Transit,KELT-South,KELT-10,2016-01-01,1379,4133
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-1246,2022-01-01,864,2588
+Transit,Kepler,Kepler-412,2014-01-01,1852,5552
+Transit,Transiting Exoplanet Survey Satellite (TESS),HD 191939,2020-01-01,542,1622
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-4860,2023-01-01,696,2084
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2364,2023-01-01,1093,3275
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2981,2024-01-01,1360,4076
+Transit,SuperWASP-South,WASP-163,2018-01-01,1640,4916
+Transit,Transiting Exoplanet Survey Satellite (TESS),GJ 143,2019-01-01,424,1268
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2796,2023-01-01,1207,3617
+Transit,Transiting Exoplanet Survey Satellite (TESS),HD 22946,2022-01-01,1243,3725
+Transit,Kepler,Kepler-101,2014-01-01,1515,4541
+Transit,Transiting Exoplanet Survey Satellite (TESS),HD 22946,2023-01-01,548,1640
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-4153,2024-01-01,1671,5009
+Transit,K2,K2-266,2018-01-01,540,1616
+Transit,K2,K2-60,2016-01-01,1402,4202
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-172,2019-01-01,1200,3596
+Transit,Next-Generation Transit Survey (NGTS),NGTS-18,2021-01-01,1383,4145
+Transit,Kepler,KOI-1257,2014-01-01,513,1535
+Transit,K2,K2-136,2017-01-01,612,1832
+Radial Velocity,Roque de los Muchachos Observatory,HD 219134,2015-01-01,784,2348
+Transit,Transiting Exoplanet Survey Satellite (TESS),TOI-2019,2024-01-01,919,2753
+Transit,HATSouth,HATS-5,2014-01-01,1027,3077

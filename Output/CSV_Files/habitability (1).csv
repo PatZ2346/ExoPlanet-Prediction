@@ -1,0 +1,642 @@
+Planet_Name,Semi_Major_Axis_AU,Equilibrium_Temperature,Habitable_Zone_Status
+TOI-674 b,0.025,635,Not Habitable
+HIP 94235 b,0.0787,1060,Not Habitable
+HATS-8 b,0.04667,1324,Not Habitable
+NGTS-9 b,0.058,1448,Not Habitable
+NGTS-2 b,0.063,1468,Not Habitable
+TOI-2803 A b,0.03185,1893,Not Habitable
+Kepler-22 b,0.812,279,Potentially Habitable
+K2-416 b,0.088,447,Not Habitable
+K2-141 c,0.0683,695,Not Habitable
+EPIC 220674823 b,0.01326,2300,Not Habitable
+Kepler-1704 b,2.027,254,Not Habitable
+TOI-1231 b,0.1288,330,Not Habitable
+HD 191939 c,0.1752,600,Not Habitable
+TOI-4137 b,0.05222,1570,Not Habitable
+TOI-1295 b,0.047,2360,Not Habitable
+TOI-2136 b,0.057,395,Not Habitable
+TOI-1695 b,0.033548,698,Not Habitable
+TOI-269 b,0.0345,531,Not Habitable
+TOI-561 c,0.0884,800,Not Habitable
+Kepler-426 b,0.0414,1300,Not Habitable
+WASP-36 b,0.02677,1733,Not Habitable
+Qatar-10 b,0.0286,1955,Not Habitable
+K2-79 b,0.0988,1022,Not Habitable
+TOI-480 b,0.077,1199,Not Habitable
+Kepler-107 c,0.06064,1378,Not Habitable
+HAT-P-68 b,0.02996,1028,Not Habitable
+Qatar-9 b,0.0234,1134,Not Habitable
+TOI-1107 b,0.0561,1728,Not Habitable
+Kepler-41 b,0.03101,1790,Not Habitable
+TOI-561 b,0.0106,2310,Not Habitable
+Qatar-6 b,0.0423,1006,Not Habitable
+TOI-500 b,0.01189,1617,Not Habitable
+HD 80653 b,0.01661,2463,Not Habitable
+HD 6061 b,0.06,1075,Not Habitable
+K2-3 d,0.2014,305,Not Habitable
+K2-233 b,0.03308,1121,Not Habitable
+TOI-1221 b,0.387,440,Not Habitable
+TOI-2088 b,0.472,300,Potentially Habitable
+Kepler-103 b,0.13223,973,Not Habitable
+TOI-5344 b,0.04041,689,Not Habitable
+TOI-5205 b,0.0199,737,Not Habitable
+K2-238 b,0.046,1587,Not Habitable
+TOI-6016 b,0.055,1890,Not Habitable
+Kepler-21 b,0.0434,2015,Not Habitable
+HATS-18 b,0.0174,2069,Not Habitable
+TOI-270 b,0.03197,581,Not Habitable
+TOI-1749 b,0.0291,831,Not Habitable
+HD 110113 b,0.035,1371,Not Habitable
+TOI-1333 b,0.0626,1679,Not Habitable
+WASP-153 b,0.048,1700,Not Habitable
+Kepler-1654 b,2.026,206,Not Habitable
+WASP-181 b,0.05427,1186,Not Habitable
+NGTS-27 b,0.0446,1783,Not Habitable
+Kepler-87 c,0.676,403,Not Habitable
+TOI-3757 b,0.03845,759,Not Habitable
+WASP-144 b,0.0316,1260,Not Habitable
+WASP-171 b,0.0504,1642,Not Habitable
+TOI-519 b,0.0159,687,Not Habitable
+TOI-6383 A b,0.02292,745,Not Habitable
+TOI-5616 b,0.0272,939,Not Habitable
+HATS-76 b,0.02658,940,Not Habitable
+NGTS-25 b,0.0388,1101,Not Habitable
+HAT-P-16 b,0.0413,1626,Not Habitable
+HD 213885 b,0.02012,2128,Not Habitable
+HD 23472 c,0.1646,467,Not Habitable
+LTT 9779 b,0.01679,1978,Not Habitable
+K2-32 d,0.18422,550,Not Habitable
+K2-182 b,0.05174,966,Not Habitable
+WASP-19 b,0.01652,2113,Not Habitable
+Kepler-62 e,0.427,270,Potentially Habitable
+TOI-663 b,0.0295,674,Not Habitable
+TOI-2587 A b,0.0635,1445,Not Habitable
+TOI-4087 b,0.04469,1458,Not Habitable
+HD 110067 d,0.1362,602,Not Habitable
+K2-100 b,0.0301,1841,Not Habitable
+TOI-1899 b,0.1525,378,Not Habitable
+EPIC 220674823 c,0.1083,805,Not Habitable
+TOI-421 b,0.0554,922,Not Habitable
+WASP-81 b,0.03908,1623,Not Habitable
+HAT-P-45 b,0.0452,1652,Not Habitable
+EPIC 246851721 b,0.07229,1401,Not Habitable
+TOI-150.01,0.07037,1404,Not Habitable
+TOI-157 b,0.03138,1588,Not Habitable
+TOI-564 b,0.02734,1714,Not Habitable
+GJ 1132 b,0.0157,584,Not Habitable
+TOI-836 c,0.075,665,Not Habitable
+LP 714-47 b,0.0417,700,Not Habitable
+HD 332231 b,0.145,798,Not Habitable
+WASP-42 b,0.0561,1021,Not Habitable
+TOI-1751 b,0.215,652,Not Habitable
+GJ 3473 b,0.01589,773,Not Habitable
+WASP-123 b,0.04263,1520,Not Habitable
+LHS 1478 b,0.01848,595,Not Habitable
+TOI-4145 A b,0.04823,1074,Not Habitable
+HD 106315 b,0.0907,1153,Not Habitable
+Kepler-1876 b,0.0758,1299,Not Habitable
+CoRoT-25 b,0.0578,1330,Not Habitable
+TOI-2818 b,0.0493,1376,Not Habitable
+Kepler-1661 b,0.633,243,Potentially Habitable
+HD 95338 b,0.262,385,Not Habitable
+TOI-3629 b,0.043,690,Not Habitable
+HATS-17 b,0.1308,814,Not Habitable
+TOI-2000 c,0.0878,1038,Not Habitable
+TOI-2529 b,0.327,636,Not Habitable
+TOI-2128 b,0.127,781,Not Habitable
+HAT-P-54 b,0.04117,818,Not Habitable
+GJ 414 A c,1.4,125,Not Habitable
+K2-292 b,0.13,795,Not Habitable
+TOI-1269 b,0.0496,1005,Not Habitable
+TOI-2524 b,0.073,1100,Not Habitable
+HATS-55 b,0.05412,1367,Not Habitable
+HATS-57 b,0.03493,1413,Not Habitable
+CoRoT-12 b,0.04016,1442,Not Habitable
+HAT-P-52 b,0.03694,1218,Not Habitable
+WASP-65 b,0.0334,1480,Not Habitable
+WASP-104 b,0.02918,1516,Not Habitable
+TOI-1470 b,0.0285,734,Not Habitable
+TOI-1064 b,0.06152,784,Not Habitable
+TOI-5153 b,0.158,906,Not Habitable
+HATS-1 b,0.0444,1359,Not Habitable
+HD 110067 c,0.1039,699,Not Habitable
+WASP-166 b,0.0641,1270,Not Habitable
+Kepler-7 b,0.06067,1630,Not Habitable
+TOI-411 c,0.1017,931,Not Habitable
+HATS-59 b,0.06112,1128,Not Habitable
+WASP-57 b,0.03769,1338,Not Habitable
+HATS-53 b,0.04753,1312,Not Habitable
+TOI-3912 b,0.0463,1512,Not Habitable
+TOI-2714 b,0.036,1603,Not Habitable
+TOI-5634 A b,0.0272,837,Not Habitable
+HATS-69 b,0.03211,1296,Not Habitable
+TOI-4600 c,1.152,191,Not Habitable
+WASP-160 B b,0.0452,1119,Not Habitable
+GJ 3929 b,0.0252,568,Not Habitable
+TOI-3235 b,0.02709,604,Not Habitable
+TOI-3819 b,0.04611,1633,Not Habitable
+TOI-1246 e,0.212,464,Not Habitable
+Qatar-2 b,0.02153,1344,Not Habitable
+TOI-4127 b,0.3081,605,Not Habitable
+LTT 3780 b,0.01195,903,Not Habitable
+TOI-2842 b,0.0475,1471,Not Habitable
+NGTS-13 b,0.0549,1605,Not Habitable
+TOI-3261 b,0.01714,1722,Not Habitable
+HD 137496 b,0.02732,2130,Not Habitable
+TOI-762 A b,0.03418,555,Not Habitable
+TOI-905 b,0.04666,1192,Not Habitable
+Kepler-44 b,0.0446,1544,Not Habitable
+TOI-2095 c,0.137,297,Not Habitable
+Kepler-102 f,0.1656,495,Not Habitable
+HD 73583 b,0.0604,714,Not Habitable
+TOI-181 b,0.0539,895,Not Habitable
+TOI-559 b,0.0723,1180,Not Habitable
+TOI-1937 A b,0.01932,2097,Not Habitable
+HD 136352 d,0.425,431,Not Habitable
+TOI-776 b,0.0653,520,Not Habitable
+HAT-P-42 b,0.0575,1428,Not Habitable
+WASP-64 b,0.02648,1689,Not Habitable
+Kepler-103 c,0.6639,434,Not Habitable
+HD 15337 c,0.1268,642,Not Habitable
+TOI-2384 b,0.02793,890,Not Habitable
+HATS-48 A b,0.03769,955,Not Habitable
+TOI-2368 b,0.05649,1000,Not Habitable
+TOI-132 b,0.026,1395,Not Habitable
+WASP-114 b,0.02851,2043,Not Habitable
+TOI-1266 c,0.1047,354,Not Habitable
+CoRoT-27 b,0.0476,1500,Not Habitable
+WASP-175 b,0.04403,1571,Not Habitable
+Kepler-433 b,0.0679,1776,Not Habitable
+HATS-29 b,0.05475,1212,Not Habitable
+Kepler-68 b,0.06135,1275,Not Habitable
+NGTS-17 b,0.0391,1457,Not Habitable
+TIC 393818343 b,0.1291,806,Not Habitable
+TOI-178 c,0.037,873,Not Habitable
+K2-25 b,0.0287,494,Not Habitable
+K2-199 b,0.0382,913,Not Habitable
+HATS-40 b,0.04997,2101,Not Habitable
+WASP-167 b,0.0365,2329,Not Habitable
+KOI-3503 b,0.11312557679914083,785,Not Habitable
+HATS-39 b,0.06007,1645,Not Habitable
+Qatar-3 b,0.03783,1681,Not Habitable
+TOI-1260 b,0.0367,871,Not Habitable
+HAT-P-19 b,0.04599,981,Not Habitable
+K2-285 b,0.03817,1089,Not Habitable
+NGTS-26 b,0.049,1331,Not Habitable
+TOI-1601 b,0.069,1494,Not Habitable
+HAT-P-65 b,0.04042,1818,Not Habitable
+TOI-4201 b,0.04,725,Not Habitable
+K2-27 b,0.06702,902,Not Habitable
+TOI-544 b,0.0225,999,Not Habitable
+HATS-30 b,0.04354,1414,Not Habitable
+TOI-2015 b,0.0301,512,Not Habitable
+TOI-2379 b,0.05263,624,Not Habitable
+Kepler-80 b,0.0648,1102,Not Habitable
+WASP-172 b,0.0694,1740,Not Habitable
+CoRoT-19 b,0.0518,2000,Not Habitable
+TOI-3023 b,0.0505,1596,Not Habitable
+PH1 b,0.652,481,Not Habitable
+WASP-170 b,0.0337,1422,Not Habitable
+TOI-2583 A b,0.0571,1456,Not Habitable
+WASP-183 b,0.04632,1111,Not Habitable
+Qatar-1 b,0.02332,1418,Not Habitable
+HD 63935 b,0.083,825,Not Habitable
+CoRoT-22 b,0.092,885,Not Habitable
+Wendelstein-2 b,0.0234,2470,Not Habitable
+WASP-59 b,0.0697,670,Not Habitable
+TOI-2236 b,0.05009,1688,Not Habitable
+Kepler-37 c,0.139,615,Not Habitable
+TOI-286 c,0.213,475,Not Habitable
+WASP-140 b,0.0323,1320,Not Habitable
+HATS-63 b,0.04026,1398,Not Habitable
+HAT-P-1 b,0.05561,1322,Not Habitable
+TOI-669 b,0.048,1125,Not Habitable
+HATS-68 b,0.05071,1741,Not Habitable
+EPIC 201595106 b,0.0177,2038,Not Habitable
+TOI-3714 b,0.027,750,Not Habitable
+TOI-2158 b,0.075,1188,Not Habitable
+TOI-2285 b,0.1363,284,Not Habitable
+Kepler-538 b,0.3554,417,Not Habitable
+Kepler-102 e,0.1162,590,Not Habitable
+TOI-1249 b,0.109,727,Not Habitable
+Kepler-109 c,0.1546,859,Not Habitable
+HATS-43 b,0.04944,1003,Not Habitable
+WASP-168 b,0.0519,1340,Not Habitable
+TOI-2107 b,0.03515,1397,Not Habitable
+HAT-P-39 b,0.0509,1752,Not Habitable
+HD 260655 c,0.04749,557,Not Habitable
+TOI-1062 b,0.052,1077,Not Habitable
+TOI-2498 b,0.0491,1443,Not Habitable
+PH2 b,0.833,295,Potentially Habitable
+HD 28109 b,0.1357,881,Not Habitable
+K2-232 b,0.10356,1030,Not Habitable
+TIC 237913194 b,0.1207,974,Not Habitable
+NGTS-10 b,0.0143,1332,Not Habitable
+TOI-6651 b,0.0633,1493,Not Habitable
+TOI-2196 b,0.02234,1860,Not Habitable
+Kepler-553 c,0.898,251,Potentially Habitable
+HAT-P-63 b,0.04294,1237,Not Habitable
+HD 3167 b,0.01796,1774,Not Habitable
+TOI-2134 c,0.371,306,Not Habitable
+Kepler-20 d,0.3474,430,Not Habitable
+TOI-2076 b,0.088,688,Not Habitable
+WASP-53 b,0.04101,1053,Not Habitable
+TOI-1776 b,0.0378,1269,Not Habitable
+TOI-3894 b,0.05354,1531,Not Habitable
+TOI-2580 b,0.048,2410,Not Habitable
+Kepler-409 b,0.3192,438,Not Habitable
+TOI-663 d,0.0576,482,Not Habitable
+TOI-3785 b,0.043,582,Not Habitable
+HAT-P-11 b,0.0532,847,Not Habitable
+K2-32 e,0.04899,1066,Not Habitable
+HATS-7 b,0.04012,1084,Not Habitable
+HD 1397 b,0.1097,1228,Not Habitable
+Kepler-10 b,0.01685,2188,Not Habitable
+TOI-5678 b,0.249,513,Not Habitable
+TOI-1728 b,0.0391,767,Not Habitable
+TOI-1052 b,0.09103,1135,Not Habitable
+HATS-51 b,0.04639,1553,Not Habitable
+CoRoT-14 b,0.027,1952,Not Habitable
+TOI-1710 b,0.166,603,Not Habitable
+TOI-622 b,0.0708,1388,Not Habitable
+TOI-4406 b,0.201,904,Not Habitable
+TOI-1268 b,0.0711,919,Not Habitable
+TOI-2641 b,0.0607,1387,Not Habitable
+HATS-58 A b,0.05798,1721,Not Habitable
+TOI-2134 b,0.078,666,Not Habitable
+K2-38 b,0.0503,1310,Not Habitable
+TOI-332 b,0.0159,1871,Not Habitable
+TOI-2141 b,0.133,722,Not Habitable
+HD 202772 A b,0.05208,2132,Not Habitable
+KELT-16 b,0.02044,2453,Not Habitable
+Kepler-138 d,0.1288,345,Not Habitable
+WASP-132 b,0.0674,682,Not Habitable
+TOI-1272 b,0.0417,975,Not Habitable
+XO-7 b,0.04421,1743,Not Habitable
+K2-415 b,0.027,412,Not Habitable
+TOI-1670 c,0.249,684,Not Habitable
+K2-261 b,0.1086,1036,Not Habitable
+TOI-481 b,0.097,1370,Not Habitable
+HATS-54 b,0.037,1429,Not Habitable
+WASP-113 b,0.05885,1496,Not Habitable
+TOI-1836 c,0.03089,2008,Not Habitable
+NGTS-14 A b,0.0403,1143,Not Habitable
+WASP-85 A b,0.039,1452,Not Habitable
+HD 25463 c,0.0443,1586,Not Habitable
+KELT-18 b,0.0455,2085,Not Habitable
+TOI-1451 b,0.127,723,Not Habitable
+WASP-185 b,0.0904,1160,Not Habitable
+TOI-858 B b,0.04435,1529,Not Habitable
+Kepler-91 b,0.0731,2040,Not Habitable
+TOI-3884 b,0.0361,441,Not Habitable
+WASP-105 b,0.075,900,Not Habitable
+K2-216 b,0.028,1103,Not Habitable
+TOI-329 b,0.0638,1213,Not Habitable
+TOI-1470 c,0.106,373,Not Habitable
+HD 73583 c,0.1242,498,Not Habitable
+HATS-60 b,0.04708,1528,Not Habitable
+Kepler-849 b,1.137,363,Not Habitable
+L 98-59 d,0.0486,416,Not Habitable
+HD 110067 f,0.2163,489,Not Habitable
+KOI-1833 d,0.11312557679914083,613,Not Habitable
+HD 260655 b,0.02933,709,Not Habitable
+NGTS-12 b,0.0757,1257,Not Habitable
+TOI-1439 b,0.192,748,Not Habitable
+K2-12 b,0.0792,1026,Not Habitable
+HAT-P-44 b,0.0507,1108,Not Habitable
+Wendelstein-1 b,0.0282,2198,Not Habitable
+TOI-1273 b,0.0549,1211,Not Habitable
+EPIC 249893012 c,0.13,990,Not Habitable
+TOI-2095 b,0.101,347,Not Habitable
+TOI-5688 A b,0.03379,742,Not Habitable
+TOI-3568 b,0.0485,899,Not Habitable
+TOI-1288 b,0.0374,1203,Not Habitable
+CoRoT-5 b,0.04947,1438,Not Habitable
+GJ 414 A b,0.2324,309,Not Habitable
+HATS-22 b,0.05025,858,Not Habitable
+WASP-89 b,0.0427,1120,Not Habitable
+HAT-P-51 b,0.05042,1168,Not Habitable
+WASP-44 b,0.03453,1337,Not Habitable
+CoRoT-23 b,0.048,1660,Not Habitable
+TOI-1260 d,0.1116,499,Not Habitable
+GJ 3470 b,0.0355,594,Not Habitable
+Kepler-1655 b,0.1029,938,Not Habitable
+Gliese 12 b,0.0668,315,Not Habitable
+TOI-1064 c,0.09429,634,Not Habitable
+HD 21749 c,0.0695,701,Not Habitable
+K2-287 b,0.1206,804,Not Habitable
+TOI-4791 b,0.0555,1472,Not Habitable
+CoRoT-18 b,0.0295,1550,Not Habitable
+WASP-161 b,0.0673,1557,Not Habitable
+TOI-1669 c,0.0376,1285,Not Habitable
+K2-98 b,0.0986,1185,Not Habitable
+TOI-1294 b,0.051,1393,Not Habitable
+TOI-270 c,0.04526,488,Not Habitable
+GJ 3090 b,0.03165,693,Not Habitable
+TOI-5786 b,0.114,1040,Not Habitable
+HAT-P-59 b,0.05064,1278,Not Habitable
+HD 110067 e,0.1785,533,Not Habitable
+HATS-37 A b,0.04913,1085,Not Habitable
+HATS-71 b,0.03745,587,Not Habitable
+WASP-139 b,0.062,910,Not Habitable
+HATS-25 b,0.05163,1277,Not Habitable
+TOI-2567 b,0.0672,1352,Not Habitable
+LTT 3780 c,0.0757,359,Not Habitable
+TOI-2447 b,0.347,414,Not Habitable
+HD 219134 b,0.03876,1015,Not Habitable
+Kepler-4 b,0.0456,1650,Not Habitable
+TOI-1246 d,0.132,588,Not Habitable
+NGTS-15 b,0.0441,1146,Not Habitable
+Kepler-20 f,0.1387,681,Not Habitable
+HIP 116454 b,0.0792,753,Not Habitable
+HATS-65 b,0.04497,1634,Not Habitable
+WASP-103 b,0.01985,2508,Not Habitable
+TOI-2207 b,0.0854,1259,Not Habitable
+HATS-10 b,0.04491,1407,Not Habitable
+TOI-2458 b,0.0482,1509,Not Habitable
+HAT-P-4 b,0.04438,1686,Not Habitable
+Kepler-78 b,0.00901,2223,Not Habitable
+TOI-406.01,0.0809,368,Not Habitable
+TOI-2416 b,0.0831,1080,Not Habitable
+HIP 29442 c,0.04518,1123,Not Habitable
+WASP-5 b,0.0267,1706,Not Habitable
+HD 5278 b,0.1202,943,Not Habitable
+NGTS-5 b,0.0382,952,Not Habitable
+WASP-20 b,0.06,1379,Not Habitable
+Qatar-4 b,0.02803,1385,Not Habitable
+TOI-815 c,0.193,469,Not Habitable
+TIC 4672985 b,0.33,517,Not Habitable
+K2-417 b,0.063,558,Not Habitable
+TOI-815 b,0.0903,686,Not Habitable
+HATS-28 b,0.04131,1253,Not Habitable
+HATS-38 b,0.05036,1294,Not Habitable
+TOI-1468 c,0.11312557679914083,338,Not Habitable
+HD 207496 b,0.0629,743,Not Habitable
+K2-295 b,0.0451,852,Not Habitable
+NGTS-16 b,0.0523,1177,Not Habitable
+KELT-23 A b,0.03302,1561,Not Habitable
+Kepler-51 d,0.509,381,Not Habitable
+Kepler-68 c,0.09008,1052,Not Habitable
+HATS-41 b,0.0583,1710,Not Habitable
+EPIC 249893012 b,0.047,1616,Not Habitable
+HATS-72 b,0.066517,739,Not Habitable
+HATS-77 b,0.03607,828,Not Habitable
+Kepler-8 b,0.0474,1680,Not Habitable
+HIP 9618 c,0.269,470,Not Habitable
+HD 77946 b,0.073,1129,Not Habitable
+Kepler-77 b,0.04501,1440,Not Habitable
+WASP-165 b,0.04823,1624,Not Habitable
+WASP-118 b,0.05453,1729,Not Habitable
+HATS-42 b,0.03689,1856,Not Habitable
+TOI-1823 b,0.212,424,Not Habitable
+TOI-5293 A b,0.034,675,Not Habitable
+HATS-75 b,0.032742,772,Not Habitable
+TOI-2000 b,0.04271,1488,Not Habitable
+HAT-P-60 b,0.06277,1772,Not Habitable
+TOI-558 b,0.1291,1061,Not Habitable
+WASP-46 b,0.02335,1636,Not Habitable
+TOI-2076 d,0.199,458,Not Habitable
+TOI-1173 b,0.0696,868,Not Habitable
+TOI-125 d,0.137,638,Not Habitable
+K2-290 b,0.0923,1230,Not Habitable
+WASP-156 b,0.0458,934,Not Habitable
+K2-36 b,0.02288,1328,Not Habitable
+WASP-79 b,0.0519,1716,Not Habitable
+HD 136352 b,0.0964,905,Not Habitable
+HAT-P-38 b,0.0523,1082,Not Habitable
+Kepler-111 c,0.751,352,Not Habitable
+TOI-3364 b,0.0675,1264,Not Habitable
+HAT-P-58 b,0.04994,1622,Not Habitable
+TOI-238 c,0.0749,696,Not Habitable
+EPIC 249893012 d,0.22,752,Not Habitable
+K2-280 b,0.1461,787,Not Habitable
+TOI-733 b,0.0618,1056,Not Habitable
+LTT 1445 A c,0.02661,508,Not Habitable
+HD 21520 b,0.1726,637,Not Habitable
+TOI-4994 b,0.1515,718,Not Habitable
+K2-30 b,0.04839,1092,Not Habitable
+Kepler-76 b,0.0274,2140,Not Habitable
+K2-36 c,0.05528,854,Not Habitable
+HATS-45 b,0.05511,1518,Not Habitable
+TOI-2154 b,0.0513,1580,Not Habitable
+TOI-6130 b,0.036,1750,Not Habitable
+TOI-1789 b,0.04882,1927,Not Habitable
+HIP 9618 b,0.145,641,Not Habitable
+HIP 97166 b,0.091,702,Not Habitable
+TOI-4914 b,0.098,894,Not Habitable
+WASP-177 b,0.03957,1142,Not Habitable
+K2-111 b,0.0565,1309,Not Habitable
+K2-237 b,0.03552,1759,Not Habitable
+HAT-P-66 b,0.04363,1896,Not Habitable
+Kepler-428 b,0.0433,1070,Not Habitable
+HD 86226 c,0.049,1311,Not Habitable
+HATS-27 b,0.0611,1659,Not Habitable
+TOI-1749 c,0.0443,673,Not Habitable
+TOI-1472 b,0.065,811,Not Habitable
+HD 23472 b,0.1162,543,Not Habitable
+HD 97658 b,0.11312557679914083,751,Not Habitable
+HD 191939 b,0.0804,880,Not Habitable
+Kepler-323 b,0.02778,1838,Not Habitable
+OGLE-TR-132 b,0.03035,2013,Not Habitable
+TOI-561 e,0.328,415,Not Habitable
+K2-3 b,0.0747,501,Not Habitable
+GJ 9827 c,0.0395,716,Not Habitable
+CoRoT-24 c,0.098,850,Not Habitable
+TOI-1411 b,0.02122,976,Not Habitable
+Kepler-109 b,0.0701,1276,Not Habitable
+TOI-431 b,0.0113,1862,Not Habitable
+Kepler-138 c,0.0913,410,Not Habitable
+Kepler-19 b,0.0846,851,Not Habitable
+TOI-1478 b,0.0903,918,Not Habitable
+HAT-P-9 b,0.05287,1540,Not Habitable
+HD 3167 c,0.1776,564,Not Habitable
+TOI-969 b,0.02636,941,Not Habitable
+NGTS-23 b,0.0504,1327,Not Habitable
+TOI-1855 b,0.02398,1701,Not Habitable
+HATS-24 b,0.0238,2166,Not Habitable
+TOI-2180 b,0.828,348,Not Habitable
+TOI-1842 b,0.1,1200,Not Habitable
+KOI-94 b,0.05119,1486,Not Habitable
+TOI-1266 b,0.0728,425,Not Habitable
+NGTS-8 b,0.035,1345,Not Habitable
+TOI-1820 b,0.061,1375,Not Habitable
+OGLE-TR-56 b,0.02383,2212,Not Habitable
+TOI-125 b,0.05186,1037,Not Habitable
+TOI-2025 b,0.0892,1166,Not Habitable
+WASP-90 b,0.0562,1840,Not Habitable
+TOI-431 d,0.098,633,Not Habitable
+TOI-1296 b,0.051,1415,Not Habitable
+HD 88986 b,0.58,460,Not Habitable
+HD 136352 c,0.1721,677,Not Habitable
+CoRoT-6 b,0.0855,1017,Not Habitable
+Kepler-74 b,0.0781,1078,Not Habitable
+TOI-954 b,0.04963,1526,Not Habitable
+K2-260 b,0.04392,2090,Not Habitable
+CoRoT-9 b,0.4021,420,Not Habitable
+HD 219134 f,0.1463,523,Not Habitable
+TOI-3807 b,0.0421,1646,Not Habitable
+TOI-1448 b,0.0567,426,Not Habitable
+TOI-5398 b,0.098,947,Not Habitable
+TOI-1794 b,0.082,993,Not Habitable
+TOI-6038 A b,0.069,1439,Not Habitable
+HD 93963 A b,0.02061,1842,Not Habitable
+TOI-2120 b,0.0377,384,Not Habitable
+TOI-1260 c,0.0657,651,Not Habitable
+TOI-4010 c,0.058,907,Not Habitable
+HAT-P-12 b,0.0384,963,Not Habitable
+TOI-2145 b,0.111,1363,Not Habitable
+Wolf 503 b,0.05712,789,Not Habitable
+TOI-3693 b,0.0813,801,Not Habitable
+TOI-1853 b,0.0213,1479,Not Habitable
+K2-266 e,0.1249,490,Not Habitable
+TOI-2589 b,0.3,592,Not Habitable
+TOI-4515 b,0.118,705,Not Habitable
+TOI-1685 b,0.01138,1062,Not Habitable
+HAT-P-61 b,0.0301,1505,Not Habitable
+Kepler-51 c,0.384,439,Not Habitable
+K2-29 b,0.04217,1171,Not Habitable
+WASP-193 b,0.0676,1254,Not Habitable
+HD 28109 d,0.411,506,Not Habitable
+TOI-1775 b,0.08,708,Not Habitable
+GJ 9827 b,0.0189,1035,Not Habitable
+TOI-908 b,0.041657,1317,Not Habitable
+Kepler-40 b,0.08,1620,Not Habitable
+TOI-2109 b,0.01791,3646,Not Habitable
+HATS-6 b,0.03623,713,Not Habitable
+TOI-5218 b,0.0469,783,Not Habitable
+HD 15337 b,0.0522,1001,Not Habitable
+Kepler-62 d,0.12,510,Not Habitable
+TOI-837 b,0.0888,995,Not Habitable
+L 168-9 b,0.0208,998,Not Habitable
+HAT-P-25 b,0.0466,1182,Not Habitable
+HATS-52 b,0.02498,1834,Not Habitable
+Kepler-62 f,0.718,208,Potentially Habitable
+L 98-59 c,0.0304,553,Not Habitable
+HATS-3 b,0.0485,1648,Not Habitable
+Kepler-87 b,0.481,478,Not Habitable
+TOI-2338 b,0.158,799,Not Habitable
+HAT-P-28 b,0.0434,1384,Not Habitable
+CoRoT-11 b,0.0436,1657,Not Habitable
+TOI-2373 b,0.112,860,Not Habitable
+TOI-257 b,0.1528,1027,Not Habitable
+NGTS-24 b,0.0479,1499,Not Habitable
+TOI-561 d,0.158,598,Not Habitable
+TOI-1420 b,0.071,957,Not Habitable
+HATS-32 b,0.04024,1437,Not Habitable
+Kepler-6 b,0.04852,1460,Not Habitable
+HD 20329 b,0.018,2141,Not Habitable
+TIC 46432937 b,0.02065,872,Not Habitable
+HATS-44 b,0.03649,1161,Not Habitable
+NGTS-6 b,0.01677,1284,Not Habitable
+TOI-4010 b,0.0229,1441,Not Habitable
+K2-97 b,0.0854,1566,Not Habitable
+TOI-1807 b,0.0122,1694,Not Habitable
+K2-3 c,0.1357,372,Not Habitable
+K2-290 c,0.305,676,Not Habitable
+WASP-169 b,0.0681,1604,Not Habitable
+NGTS-21 b,0.0236,1357,Not Habitable
+WASP-158 b,0.0517,1590,Not Habitable
+Kepler-107 b,0.04544,1592,Not Habitable
+TOI-3071 b,0.0249,2155,Not Habitable
+WASP-18 b,0.02024,2429,Not Habitable
+Kepler-20 b,0.04565,1187,Not Habitable
+K2-265 b,0.03359,1366,Not Habitable
+TOI-286 b,0.0503,979,Not Habitable
+KPS-1 b,0.0269,1459,Not Habitable
+WASP-93 b,0.04211,1942,Not Habitable
+HAT-P-23 b,0.0232,2056,Not Habitable
+WASP-130 b,0.1012,833,Not Habitable
+K2-38 c,0.0959,949,Not Habitable
+TOI-3976 A b,0.0743,1295,Not Habitable
+K2-285 d,0.1178,620,Not Habitable
+HD 235088 b,0.071,754,Not Habitable
+HATS-49 b,0.04515,835,Not Habitable
+Wolf 327 b,0.01,996,Not Habitable
+TOI-677 b,0.1038,1252,Not Habitable
+KELT-24 b,0.0665,1391,Not Habitable
+K2-329 b,0.1016,650,Not Habitable
+Kepler-10 c,0.241,578,Not Habitable
+HATS-13 b,0.04057,1244,Not Habitable
+TOI-1416 b,0.019,1517,Not Habitable
+TOI-169 b,0.03524,1715,Not Habitable
+KOI-94 c,0.1013,1012,Not Habitable
+HATS-4 b,0.0362,1315,Not Habitable
+Kepler-117 b,0.1445,984,Not Habitable
+CoRoT-1 b,0.11312557679914083,1898,Not Habitable
+TOI-270 d,0.0721,387,Not Habitable
+TOI-178 f,0.1039,521,Not Habitable
+WASP-7 b,0.0617,1487,Not Habitable
+TOI-2421 b,0.0543,1534,Not Habitable
+WASP-164 b,0.02818,1610,Not Habitable
+TOI-530 b,0.052,565,Not Habitable
+HAT-P-37 b,0.0379,1271,Not Habitable
+K2-66 b,0.05983,1372,Not Habitable
+K2-266 b,0.01306,1515,Not Habitable
+TOI-2010 b,0.5516,400,Not Habitable
+NGTS-1 b,0.0326,790,Not Habitable
+K2-419 A b,0.1208,377,Not Habitable
+HD 28109 c,0.308,585,Not Habitable
+WASP-132 c,0.01833,1329,Not Habitable
+TOI-2152 A b,0.05064,1802,Not Habitable
+HATS-35 b,0.03199,2037,Not Habitable
+Kepler-454 b,0.09528,916,Not Habitable
+HATS-46 b,0.05367,1054,Not Habitable
+TOI-5398 c,0.057,1242,Not Habitable
+CoRoT-36 b,0.066,1567,Not Habitable
+HAT-P-53 b,0.03159,1778,Not Habitable
+HATS-31 b,0.0478,1823,Not Habitable
+HATS-66 b,0.04714,1998,Not Habitable
+HD 63433 c,0.146,622,Not Habitable
+Kepler-117 c,0.2804,704,Not Habitable
+TIC 139270665 b,0.163,703,Not Habitable
+HATS-61 b,0.07908,1226,Not Habitable
+WASP-173 A b,0.0248,1880,Not Habitable
+HD 2685 b,0.0568,2061,Not Habitable
+TOI-532 b,0.0296,867,Not Habitable
+HAT-P-20 b,0.0361,970,Not Habitable
+HAT-P-36 b,0.0241,1781,Not Habitable
+TOI-260 b,0.0943,493,Not Habitable
+HD 73344 b,0.131,911,Not Habitable
+Kepler-107 d,0.08377,1173,Not Habitable
+CoRoT-26 b,0.0526,1600,Not Habitable
+Kepler-1514 b,0.753,388,Not Habitable
+K2-140 b,0.068,962,Not Habitable
+HATS-47 b,0.04269,853,Not Habitable
+TOI-2570 b,0.04145,1431,Not Habitable
+K2-141 b,0.00747,2103,Not Habitable
+TOI-1759 b,0.1177,443,Not Habitable
+Kepler-93 b,0.05343,1133,Not Habitable
+TOI-1452 b,0.061,326,Not Habitable
+TOI-4438 b,0.0534,435,Not Habitable
+NGTS-30 b,0.408,500,Not Habitable
+TOI-3984 A b,0.041,563,Not Habitable
+HD 106315 c,0.1536,886,Not Habitable
+TOI-1075 b,0.01159,1323,Not Habitable
+WASP-136 b,0.0661,1742,Not Habitable
+Kepler-167 e,1.883,134,Not Habitable
+TOI-1824 b,0.151,529,Not Habitable
+K2-285 c,0.0824,741,Not Habitable
+HIP 29442 d,0.0673,920,Not Habitable
+KELT-10 b,0.0525,1377,Not Habitable
+TOI-1246 c,0.061,862,Not Habitable
+Kepler-412 b,0.02897,1850,Not Habitable
+HD 191939 d,0.2132,540,Not Habitable
+TOI-4860 b,0.01808,694,Not Habitable
+TOI-2364 b,0.04871,1091,Not Habitable
+TOI-2981 b,0.048,1358,Not Habitable
+WASP-163 b,0.0266,1638,Not Habitable
+GJ 143 b,0.1915,422,Not Habitable
+TOI-2796 b,0.0569,1205,Not Habitable
+TOI-411 b,0.05727,1241,Not Habitable
+Kepler-101 b,0.0474,1513,Not Habitable
+HD 22946 d,0.2958,546,Not Habitable
+TOI-4153 b,0.06311,1669,Not Habitable
+K2-266 d,0.1035,538,Not Habitable
+K2-60 b,0.045,1400,Not Habitable
+TOI-172 b,0.0914,1198,Not Habitable
+NGTS-18 b,0.0448,1381,Not Habitable
+KOI-1257 b,0.382,511,Not Habitable
+K2-136 b,0.0707,610,Not Habitable
+HD 219134 c,0.0653,782,Not Habitable
+TOI-2019 b,0.128,917,Not Habitable
+HATS-5 b,0.0542,1025,Not Habitable
