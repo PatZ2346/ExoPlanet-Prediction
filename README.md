@@ -68,6 +68,22 @@ Analysis:
    Circular/Stable Orbits (e ≤ 0.3) have more stable temperatures, making them better candidates for habitability.
    If a planet has high eccentricity, it may enter and exit the habitable zone multiple times during an orbit, making sustained habitability unlikely.
 
+## Which exoplanet discovery method has been used the most, and which has been used the least? What does this indicate about the effectiveness and prevalence of different detection techniques? (Amrit)
+ Transit is the most dominant method for discovering exoplanets, while Transit Timing Variations (TTV) is the least used.
+
+- Transit (1102 discoveries) → Most widely used method, likely due to missions like Kepler and TESS, which monitor star brightness dips when planets pass in front.
+- Transit Timing Variations (1 discovery) → Rarely used, likely because it requires detecting minute gravitational influences on already-known planets.
+
+This analysis highlights the dominance of large-scale transit surveys and the rarity of more specialized detection techniques like TTV
+
+## How does the distance of a planet host from its exoplanets influence the exoplanets' temperature, luminosity? (Amrit)
+
+The analysis compares the exoplanets OGLE-TR-182 b (farthest from its star at 2501.75 light-years) and HD 219134 b (closest at 6.53 light-years).
+
+It suggests that both exoplanets despite being farthest and closest to their host, are both depict high temperature where as the luminosity difference is apparently high in the exoplanet closest to its star at 14.737.
+
+However, analyzing the visualizations reveals a clear inverse relationship between an exoplanet’s distance from its host star and its temperature. Planets closer to their stars tend to be hotter, while those farther away are cooler, following established astrophysical principles. This study highlights extreme planetary diversity, where distant gas giants and nearby rocky planets provide unique opportunities for exoplanetary science.
+
 ![orbit_temperature_analysis.png](https://github.com/AMRITKAUR89/ExoPredict-Classifying-and-Predicting-Exoplanet-Characteristics/blob/main/Output/Visualisations/orbit_temperature_analysis.png)
 
 
