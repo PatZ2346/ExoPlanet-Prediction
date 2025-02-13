@@ -48,7 +48,7 @@ Trying to predict number of exoplanets per star
 
 
 
-## 1. How do planetary characteristics influence the likelihood of being in the habitable zone? 
+## How do planetary characteristics influence the likelihood of being in the habitable zone? 
 
 Answer: The habitable zone (HZ) depends on the semi-major axis (AU) and star temperature (K). We'll classify planets as potentially habitable based on their distance from the star (semi-major axis) and the equilibrium temperature.
 
@@ -66,7 +66,7 @@ Key Influencing Factors:
 
 
 
-## 2. How does a planet’s orbit impact its temperature and potential habitability?
+## How does a planet’s orbit impact its temperature and potential habitability?
 
 Answer: The orbital eccentricity and semi-major axis influence temperature variations. We will analyze how eccentric orbits lead to temperature fluctuations and impact habitability.
 
@@ -98,7 +98,15 @@ Can we identify groups of similar exoplanets?
 The K-Means algorithm clusters exoplanets based on mass and temperature into three groups (0, 1, 2). Cluster 2 contains most planets, including Kepler-138 c and HD 136352 c, with moderate mass (2.3–11.24) and temperatures (410–784K). Cluster 0 includes massive, hotter planets like TOI-3819 b (230.11–371.85 mass, 1028–1890K). This analysis highlights mass and temperature as key factors in exoplanet classification.
 
 
-Techniques implemented for Optimization: 1. Increased Network Depth and Width2. Batch Normalization3. Dropout Regularization4. Early Stopping5. Learning Rate Reduction6. Extended Training Epochs7. Larger Batch Size8. Performance Tracking
+#### Techniques implemented for Optimization: 
+- 1. Increased Network Depth and Width
+  2. Batch Normalization
+  3. Dropout Regularization
+  4. Early Stopping
+  5. Learning Rate Reduction
+  6. Extended Training Epochs
+  7. Larger Batch Size
+  8. Performance Tracking
 
 
 ## Key Findings
