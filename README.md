@@ -54,7 +54,7 @@ Key Influencing Factors:
        Equilibrium Temperature (K): Planets with extreme temperatures (very high or low) are unlikely to support liquid water.
        Star Temperature (K): Cooler stars (red dwarfs) have closer habitable zones, while hotter stars require planets to be farther out.
 
-![habitable_vs_non_habitable_planets.png](https://github.com/AMRITKAUR89/ExoPredict-Classifying-and-Predicting-Exoplanet-Characteristics/blob/main/Output/Visualisations/habitable_vs_non_habitable_planets.png)
+
 
 
 ## 2. How does a planet’s orbit impact its temperature and potential habitability?(Mandeep)
@@ -84,7 +84,7 @@ It suggests that both exoplanets despite being farthest and closest to their hos
 
 However, analyzing the visualizations reveals a clear inverse relationship between an exoplanet’s distance from its host star and its temperature. Planets closer to their stars tend to be hotter, while those farther away are cooler, following established astrophysical principles. This study highlights extreme planetary diversity, where distant gas giants and nearby rocky planets provide unique opportunities for exoplanetary science.
 
-![orbit_temperature_analysis.png](https://github.com/AMRITKAUR89/ExoPredict-Classifying-and-Predicting-Exoplanet-Characteristics/blob/main/Output/Visualisations/orbit_temperature_analysis.png)
+
 
 
 # Resources
