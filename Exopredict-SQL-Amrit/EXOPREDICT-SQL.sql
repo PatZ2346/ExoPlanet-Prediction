@@ -37,7 +37,7 @@ CREATE TABLE "discovery" (
      )
 );
 
-drop table thermodynamics;
+
 
 ALTER TABLE "clustering" ADD CONSTRAINT "fk_clustering_orb_id" FOREIGN KEY("orb_id")
 REFERENCES "orbitalTemp" ("orb_id");
