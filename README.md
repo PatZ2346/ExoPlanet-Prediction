@@ -37,9 +37,18 @@ Normalization & Encoding: Standardized numerical values and indexed categorical 
 
 The processed data was saved as structured CSV files for further analysis and visualization.
 
-## Research Questions & Analysis
+#### We have chosen following questions for our data analysis:
+Planet’s habitability
+Stellar orbital Impact on planet’s temperature
+Categorisation of planets (Gas Giant or Rocky surface)
+Which facility discovered most exoplanets
+What methods are more acceptable than others to discover the exoplanets and why?
+Comparing stars and exoplanets by how far their parameters are from each other
+Trying to predict number of exoplanets per star
 
-## 1. How do planetary characteristics influence the likelihood of being in the habitable zone? (Mandeep)
+
+
+## 1. How do planetary characteristics influence the likelihood of being in the habitable zone? 
 
 Answer: The habitable zone (HZ) depends on the semi-major axis (AU) and star temperature (K). We'll classify planets as potentially habitable based on their distance from the star (semi-major axis) and the equilibrium temperature.
 
@@ -57,7 +66,7 @@ Key Influencing Factors:
 
 
 
-## 2. How does a planet’s orbit impact its temperature and potential habitability?(Mandeep)
+## 2. How does a planet’s orbit impact its temperature and potential habitability?
 
 Answer: The orbital eccentricity and semi-major axis influence temperature variations. We will analyze how eccentric orbits lead to temperature fluctuations and impact habitability.
 
@@ -76,13 +85,39 @@ Analysis:
 
 This analysis highlights the dominance of large-scale transit surveys and the rarity of more specialized detection techniques like TTV
 
-## How does the distance of a planet host from its exoplanets influence the exoplanets' temperature, luminosity? (Amrit)
+## How does the distance of a planet host from its exoplanets influence the exoplanets' temperature, luminosity?
 
 The analysis compares the exoplanets OGLE-TR-182 b (farthest from its star at 2501.75 light-years) and HD 219134 b (closest at 6.53 light-years).
 
 It suggests that both exoplanets despite being farthest and closest to their host, are both depict high temperature where as the luminosity difference is apparently high in the exoplanet closest to its star at 14.737.
 
 However, analyzing the visualizations reveals a clear inverse relationship between an exoplanet’s distance from its host star and its temperature. Planets closer to their stars tend to be hotter, while those farther away are cooler, following established astrophysical principles. This study highlights extreme planetary diversity, where distant gas giants and nearby rocky planets provide unique opportunities for exoplanetary science.
+
+Can we identify groups of similar exoplanets?
+
+The K-Means algorithm clusters exoplanets based on mass and temperature into three groups (0, 1, 2). Cluster 2 contains most planets, including Kepler-138 c and HD 136352 c, with moderate mass (2.3–11.24) and temperatures (410–784K). Cluster 0 includes massive, hotter planets like TOI-3819 b (230.11–371.85 mass, 1028–1890K). This analysis highlights mass and temperature as key factors in exoplanet classification.
+
+
+Techniques implemented for Optimization: 1. Increased Network Depth and Width2. Batch Normalization3. Dropout Regularization4. Early Stopping5. Learning Rate Reduction6. Extended Training Epochs7. Larger Batch Size8. Performance Tracking
+
+
+## Key Findings
+-   Total 634 Planets were found habitable
+-   We are surrounded by more Gas Giants than Rocky Planets
+-   Transit method is widely used to discover the new exoplanets
+-   Planets closer to their host are highly luminous and hot
+-   The mass of the star significantly impacts on the number of exoplanets
+
+
+## Recommendations
+Higher resolution datasets
+Refining models
+Incorporating additional planetary characteristics 
+
+## Conclusion
+The ExoPredict project successfully analyzed exoplanetary data to classify and predict exoplanet characteristics using machine learning and clustering algorithms. By leveraging NASA's exoplanet dataset, our team explored planetary properties, habitability, and discovery trends.
+
+
 
 
 
