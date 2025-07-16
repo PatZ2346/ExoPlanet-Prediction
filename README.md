@@ -1,6 +1,7 @@
 # ExoPredict-Classifying-and-Predicting-Exoplanet-Characteristics
-
-# Project Overview
+Project 4
+  
+# Overview
    In this project, we aimed to analyze exoplanetary data to uncover insights into planetary classifications, habitability, and discovery methods using machine learning techniques. Our approach involved extracting, transforming, and visualizing data to address key research questions related to exoplanet clustering, classification, and relationships with their host stars.
    
 # Technologies Used for ETL Process
